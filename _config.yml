@@ -31,7 +31,7 @@ plugins:
   - jekyll-feed
 
 encoding: UTF-8
-logo:  /lemonade.png
+logo:  /lemonade-logo.png
 show_downloads: false
 google_analytics: UA-127096214-1
 
