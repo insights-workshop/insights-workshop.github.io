@@ -15,22 +15,22 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1><a href="{{baseurl}}">{{ site.title | default: site.github.repository_name }}</a></h1>
+        <!--h1><a href="{{baseurl}}">{{ site.title | default: site.github.repository_name }}</a></h1-->
         <!--h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1-->
 
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
-        <p><b>{{ site.description | default: site.github.project_tagline }}</b></p>
+        <p style="font-size: larger;"><b>{{ site.description | default: site.github.project_tagline }}</b></p>
           <!--p><b>The Third Workshop on Evaluating Vector Space Representations for NLP</b></p-->
-          <p>June 6th 2019, Minneapolis (USA)<br/>
-          (co-located with NAACL)</p>
+          <!--p>June 6th 2019, Minneapolis (USA)<br/>
+          (co-located with NAACL)</p-->
 
         <!--p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p-->
         <p class="view"><a href="/index">About</a></p>
-        <p class="view"><a href="/people">People</a></p>
         <p class="view"><a href="/papers">Insightful paper examples</a></p>
+        <p class="view"><a href="/people">People</a></p>
         <p class="view"><a href="/cfp">Call for papers</a></p>
         <p class="view"><a href="/program">Program</a></p>
 
