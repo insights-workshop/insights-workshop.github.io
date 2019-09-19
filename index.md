@@ -3,7 +3,7 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 # layout: home
-title: The Third Workshop on Evaluating Vector Space Representations for NLP
+title: Workshop on Insights from Negative Results in NLP
 ---
 
 # <span style="color:#267CB9"> Project goals</span>
