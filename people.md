@@ -26,8 +26,12 @@ permalink: /people/
 * Stefan Evert, Friedrich-Alexander-Universitäat Erlangen-Nürnberg (Germany)
 * Matt Gardner, Allen AI (USA)
 * Sharath Chandra Guntuku, University of Pennsylvania (USA)
+* Constantine Lignos, Brandeis University (USA)
 * Tal Linzen, Johns Hopkins University (USA)
+* Kyle Lo, Allen Institute for Artificial Intelligence
+* Ana Marasović, Allen Institute for Artificial Intelligence
 * Neha Nayak, University of Massachusetts Amherst (USA)
+* Mark Neumann, Allen Institute for Artificial Intelligence (USA)
 * Denis Paperno, Université de Lorraine (France)
 * Ellie Pavlick, Brown University (USA)
 * Masoud Rouhizadeh, Johns Hopkins University (USA)
