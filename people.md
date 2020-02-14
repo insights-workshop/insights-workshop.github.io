@@ -42,5 +42,6 @@ permalink: /people/
 * Yulia Tsvetkov, Carnegie Mellon University (USA)
 * Shyam Upadhyay, Google (USA)
 * Ekaterina Vylomova, University of Melbourne (Australia)
+* Chris Welty, Google Research (USA)
 * Matthijs Westera, Universitat Pompeu Fabra (Spain)
 * Mark Yatskar, Allen AI (USA)
