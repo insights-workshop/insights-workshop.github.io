@@ -6,7 +6,7 @@
 title: Workshop on Insights from Negative Results in NLP
 ---
 
-## <span style="color:#267CB9">Project goals</span>
+## <span style="color:#267CB9">Why negative results?</span>
 
 Publication of negative results is difficult in most fields, but in NLP the problem is exacerbated by the near-universal focus on improvements in benchmarks. This situation implicitly discourages hypothesis-driven research, and it turns creation and fine-tuning of NLP models into art rather than science. Furthermore, it increases the time, effort, and carbon emissions spent on developing and tuning models, as the researchers have no opportunity to learn what has already been tried and failed.
 
@@ -22,8 +22,4 @@ A successful negative results paper would contribute one of the following:
 * experiments on (in)stability of the previously published results due to hardware, random initializations, etc.;
 * broadly applicable recommendations for training/fine-tuning, especially if the X that didn't work is something that many practitioners would think reasonable to try, and if the demonstration of X's failure is accompanied by some explanation/hypothesis.
 
-## <span style="color:#267CB9"> Submission Types and Requirements </span>
-
-The workshop will accept short papers as well as non-archival abstract submissions for papers published elsewhere (e.g. in one of the main conferences or in non-NLP venues), with the aim of bringing together relevant negative results.
-
-In the interest of recognizing the work that did not lead to leaderboard breakthroughs but still yielded useful insights, there will be an award for the best negative results paper.
+The workshop invites short papers as well as non-archival abstract submissions for papers published elsewhere (e.g. in one of the main conferences or in non-NLP venues). Insights from Negative Results will be not only a publication venue, but an opportunity to discuss the most urgent methodological issues, and to think about where the field is going.
