@@ -22,4 +22,4 @@ A successful negative results paper would contribute one of the following:
 * experiments on (in)stability of the previously published results due to hardware, random initializations, etc.;
 * broadly applicable recommendations for training/fine-tuning, especially if the X that didn't work is something that many practitioners would think reasonable to try, and if the demonstration of X's failure is accompanied by some explanation/hypothesis.
 
-The workshop invites short papers as well as non-archival abstract submissions for papers published elsewhere (e.g. in one of the main conferences or in non-NLP venues). Insights from Negative Results will be not only a publication venue, but an opportunity to discuss the most urgent methodological issues, and to think about where the field is going.
+The Workshop for Insights from Negative Results  invites short papers as well as non-archival abstract submissions for papers published elsewhere (e.g. in one of the main conferences or in non-NLP venues). Our goal is to provide not only a publication venue, but an opportunity to discuss the most urgent methodological issues, and to think about where the field is going.
