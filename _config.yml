@@ -32,6 +32,7 @@ plugins:
 
 encoding: UTF-8
 logo:  /lemonade-logo.png
+title_image: /lemonade.png
 show_downloads: false
 google_analytics: UA-127096214-1
 
