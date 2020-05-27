@@ -11,6 +11,8 @@ permalink: /people/
 
 * [Anna Rumshisky](http://www.cs.uml.edu/~arum/), University of Massachusetts Lowell
 
+Contact: [insights-workshop-organizers@googlegroups.com](mailto:insights-workshop-organizers@googlegroups.com)
+
 ## <span style="color:#267CB9"> Invited speakers (in alphabetical order) </span>
 
 * [Rada Mihalcea](https://web.eecs.umich.edu/~mihalcea/), University of Michigan (confirmed)

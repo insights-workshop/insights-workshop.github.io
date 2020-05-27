@@ -95,3 +95,6 @@ Previous presentations of the work (e.g. preprints on arXiv.org) should be noted
 
 The workshop will take place online on November 19 2020, incorporating the best practices from other online conferences this year (such as ICLR). For now we are expecting to have pre-recorded oral presentations of the papers, asynchronous Q&A sessions (in which more than one author for each paper can take part), and also community discussion sessions and/or panels.
 
+## Contact info
+
+You can reach us at [insights-workshop-organizers@googlegroups.com](mailto:insights-workshop-organizers@googlegroups.com).
