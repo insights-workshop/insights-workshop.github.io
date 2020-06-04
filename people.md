@@ -5,7 +5,7 @@ permalink: /people/
 
 ## <span style="color:#267CB9"> Organizing committee</span>
 
-* [Anna Rogers](http://www.cs.uml.edu/~arogers/), University of Massachusetts Lowell
+* [Anna Rogers](http://www.cs.uml.edu/~arogers/), University of Copenhagen
 
 * [João Sedoc](https://www.clsp.jhu.edu/faculty/joao-sedoc/), Johns Hopkins University
 
@@ -15,9 +15,9 @@ Contact: [insights-workshop-organizers@googlegroups.com](mailto:insights-worksho
 
 ## <span style="color:#267CB9"> Invited speakers (in alphabetical order) </span>
 
-* [Rada Mihalcea](https://web.eecs.umich.edu/~mihalcea/), University of Michigan (confirmed)
+* [Rada Mihalcea](https://web.eecs.umich.edu/~mihalcea/), University of Michigan
 
-* [Byron C. Wallace](http://www.byronwallace.com/), Northeastern University (confirmed)
+* [Byron C. Wallace](http://www.byronwallace.com/), Northeastern University
 
 ## <span style="color:#267CB9"> Program committee (in alphabetical order) </span>
   
