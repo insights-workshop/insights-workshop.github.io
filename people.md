@@ -39,6 +39,7 @@ Contact: [insights-workshop-organizers@googlegroups.com](mailto:insights-worksho
 * Masoud Rouhizadeh, Johns Hopkins University (USA)
 * Jordan Rodu, University of Virginia (USA)
 * Neville Ryant, University of Pennsylvania (USA)
+* Djamé Seddah, Université Paris-Sorbonne (France)
 * Andy Schwatz, Stony Brook University (USA)
 * Emma Strubell, University of Massachusetts Amherst (USA)
 * Yulia Tsvetkov, Carnegie Mellon University (USA)

@@ -44,12 +44,12 @@ Submission is electronic, using the Softconf START conference management system.
 
 Submission link: [https://www.softconf.com/emnlp2020/insights2020/](https://www.softconf.com/emnlp2020/insights2020/)
 
-Both long and short papers must follow the EMNLP 2020 two-column format.
+The workshop will accept short papers (up to 4 pages), as well as 1-2 page non-archival abstract submissions for papers published elsewhere (e.g. in one of the main conferences or in non-NLP venues). The goal of this event is to stimulate a meaningful community-wide discussion of the deep issues in NLP methodology, and the authors of both types of submissions will be welcome to take part in our virtual get-togethers. 
+
+Both research papers and abstracts must follow the EMNLP 2020 two-column format.
 Official style sheets: [https://2020.emnlp.org/files/emnlp2020-templates.zip](https://2020.emnlp.org/files/emnlp2020-templates.zip)
 
 Please do not modify these style files, nor should you use templates designed for other conferences. Submissions that do not conform to the required styles, including paper size, margin width, and font size restrictions, will be rejected without review.
-
-The workshop will accept short papers (up to 4 pages), as well as 1-2 page non-archival abstract submissions for papers published elsewhere (e.g. in one of the main conferences or in non-NLP venues). The goal of this event is to stimulate a meaningful community-wide discussion of the deep issues in NLP methodology, and the authors of both types of submissions will be welcome to take part in our virtual get-togethers. 
 
 ## Authorship
 
