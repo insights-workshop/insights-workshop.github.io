@@ -93,7 +93,7 @@ We follow EMNLP anonymity policy. The anonymity period runs from 1 month before 
 All accepted papers must be presented at the workshop to appear in the proceedings. Authors of accepted papers must notify the program chairs by the camera-ready deadline if they wish to withdraw the paper. At least one author of each accepted paper must register for the workshop.
 Previous presentations of the work (e.g. preprints on arXiv.org) should be noted in a footnote in the camera-ready version (but not in the anonymized version of the paper).
 
-The workshop will take place online on November 19 2020, incorporating the best practices from other online conferences this year (such as ICLR). For now we are expecting to have pre-recorded oral presentations of the papers, asynchronous Q&A sessions (in which more than one author for each paper can take part), and also community discussion sessions and/or panels.
+The workshop will take place online on November 19 2020, incorporating the best practices from other online conferences this year (such as ICLR and ACL). For now we are expecting to have pre-recorded oral presentations of the papers, live Q&A sessions (in which more than one author for each paper can take part), and also community discussion sessions and/or panels.
 
 ## Contact info
 
