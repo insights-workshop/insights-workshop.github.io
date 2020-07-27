@@ -5,7 +5,7 @@ permalink: /people/
 
 ## <span style="color:#267CB9"> Organizing committee</span>
 
-* [Anna Rogers](http://www.cs.uml.edu/~arogers/), University of Copenhagen
+* [Anna Rogers](http://www.annargrs.github.io/), University of Copenhagen
 
 * [João Sedoc](https://www.clsp.jhu.edu/faculty/joao-sedoc/), Johns Hopkins University
 
