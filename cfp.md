@@ -44,12 +44,12 @@ Submission is electronic, using the Softconf START conference management system.
 
 Submission link: [https://www.softconf.com/emnlp2020/insights2020/](https://www.softconf.com/emnlp2020/insights2020/)
 
-Both long and short papers must follow the EMNLP 2020 two-column format.
+The workshop will accept short papers (up to 4 pages, excluding references), as well as 1-2 page non-archival abstract submissions for papers published elsewhere (e.g. in one of the main conferences or in non-NLP venues). The goal of this event is to stimulate a meaningful community-wide discussion of the deep issues in NLP methodology, and the authors of both types of submissions will be welcome to take part in our virtual get-togethers. 
+
+Both research papers and abstracts must follow the EMNLP 2020 two-column format.
 Official style sheets: [https://2020.emnlp.org/files/emnlp2020-templates.zip](https://2020.emnlp.org/files/emnlp2020-templates.zip)
 
 Please do not modify these style files, nor should you use templates designed for other conferences. Submissions that do not conform to the required styles, including paper size, margin width, and font size restrictions, will be rejected without review.
-
-The workshop will accept short papers (up to 4 pages), as well as 1-2 page non-archival abstract submissions for papers published elsewhere (e.g. in one of the main conferences or in non-NLP venues). The goal of this event is to stimulate a meaningful community-wide discussion of the deep issues in NLP methodology, and the authors of both types of submissions will be welcome to take part in our virtual get-togethers. 
 
 ## Authorship
 
@@ -93,7 +93,7 @@ We follow EMNLP anonymity policy. The anonymity period runs from 1 month before 
 All accepted papers must be presented at the workshop to appear in the proceedings. Authors of accepted papers must notify the program chairs by the camera-ready deadline if they wish to withdraw the paper. At least one author of each accepted paper must register for the workshop.
 Previous presentations of the work (e.g. preprints on arXiv.org) should be noted in a footnote in the camera-ready version (but not in the anonymized version of the paper).
 
-The workshop will take place online on November 19 2020, incorporating the best practices from other online conferences this year (such as ICLR). For now we are expecting to have pre-recorded oral presentations of the papers, asynchronous Q&A sessions (in which more than one author for each paper can take part), and also community discussion sessions and/or panels.
+The workshop will take place online on November 19 2020, incorporating the best practices from other online conferences this year (such as ICLR and ACL). For now we are expecting to have pre-recorded oral presentations of the papers, live Q&A sessions (in which more than one author for each paper can take part), and also community discussion sessions and/or panels.
 
 ## Contact info
 

@@ -5,7 +5,7 @@ permalink: /people/
 
 ## <span style="color:#267CB9"> Organizing committee</span>
 
-* [Anna Rogers](http://www.cs.uml.edu/~arogers/), University of Copenhagen
+* [Anna Rogers](http://www.annargrs.github.io/), University of Copenhagen
 
 * [João Sedoc](https://www.clsp.jhu.edu/faculty/joao-sedoc/), Johns Hopkins University
 
@@ -44,6 +44,7 @@ Contact: [insights-workshop-organizers@googlegroups.com](mailto:insights-worksho
 * Masoud Rouhizadeh, Johns Hopkins University (USA)
 * Jordan Rodu, University of Virginia (USA)
 * Neville Ryant, University of Pennsylvania (USA)
+* Djamé Seddah, Université Paris-Sorbonne (France)
 * Andy Schwatz, Stony Brook University (USA)
 * Emma Strubell, University of Massachusetts Amherst (USA)
 * Yulia Tsvetkov, Carnegie Mellon University (USA)
