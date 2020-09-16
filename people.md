@@ -21,17 +21,22 @@ Contact: [insights-workshop-organizers@googlegroups.com](mailto:insights-worksho
 
 ## <span style="color:#267CB9"> Program committee (in alphabetical order) </span>
   
+* Emily Alsentzer, MIT (USA)
 * Amittai Axelrod, DiDi Labs (USA)
+* William Boag, MIT (USA)
 * Anneke Buffone, Facebook (USA)
 * Aleksandr Drozd, RIKEN (Japan)
 * Allyson Ettinger, University of Chicago (USA)
 * Stefan Evert, Friedrich-Alexander-Universitäat Erlangen-Nürnberg (Germany)
+* Jason Alan Fries, Stanford (USA)
+* Leibny Paola Garcia, Johns Hopkins University (USA)
 * Matt Gardner, Allen AI (USA)
 * Sharath Chandra Guntuku, University of Pennsylvania (USA)
 * Constantine Lignos, Brandeis University (USA)
 * Tal Linzen, Johns Hopkins University (USA)
 * Kyle Lo, Allen Institute for Artificial Intelligence
 * Ana Marasović, Allen Institute for Artificial Intelligence
+* Matthew B. A. McDermott, MIT (USA)
 * Neha Nayak, University of Massachusetts Amherst (USA)
 * Mark Neumann, Allen Institute for Artificial Intelligence (USA)
 * Denis Paperno, Université de Lorraine (France)
