@@ -7,7 +7,7 @@ permalink: /program/
 
 The goal of this workshop is to provide not only a publication venue for negative results, but also a forum for meaningful discussion and learning from them. This year the event will feature invited talks + live QA with Rada Mihalcea and Byron C. Wallace, and five thematic sessions, with live group QA with the authors working in the same subfield. These sessions wil span NLI, QA, dialogue, and representation learning, plus a general session for "lessons learned the hard way". Eight more insightful negative results papers on a wide range of topics will be presented in an interactive section on gather.town, to be immediately followed by a panel on leaderboardism, reproducibility, and frustrations of trying to getting published systems to work (with Kawin Ethayarajh, Jesse Dodge and Rachael Thomas). And of course there will be plenty of opportunities to chat in gather.town during three social breaks. 
 
-Small changes may occur, please check the program again before the event.
+Small changes may occur, please check the program again before the event. All times are in PST.
 
 *************
 
