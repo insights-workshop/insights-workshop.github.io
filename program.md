@@ -11,10 +11,6 @@ Small changes may occur, please check the program again before the event. All ti
 
 *************
 
-<span class="time">1:00--2:00</span> **Early bird session**
-
-All the talks will be available for streaming a week before the conference, and thus are equally accessible globally. However, the live events, in particular the Q&A sessions with the authors, are more difficult. Most of our live program takes place during the C and A conference time blocks, i.e. the time zones that are convenient for the Americas and Europe, but less so for Asia and Australia. To counter that, some of our participants will also be present at a special pre-workshop session in gather.town. This is a chance to answer any questions from the other part of the globe, and to get to know each other. The session will be moderated by the organizers.
-
 <span class="time">7:00--7:15</span> **Opening remarks**
 
 <span class="time">7:15--8:15</span> **Invited talk + live QA: [Rada Mihalcea (University of Michigan)](https://web.eecs.umich.edu/~mihalcea/)** <br/>
