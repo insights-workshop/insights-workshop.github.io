@@ -13,7 +13,7 @@ Small changes may occur, please check the program again before the event. All ti
 
 <span class="time">7:00--7:15</span> **Opening remarks**
 
-<span class="time">7:15--8:15</span> **Invited talk + live QA: [Rada Mihalcea (University of Michigan)](https://web.eecs.umich.edu/~mihalcea/)** <br/>
+<span class="time">7:15--8:15</span> **Invited talk + live QA: [Rada Mihalcea (University of Michigan)](https://web.eecs.umich.edu/~mihalcea/)** [[VIDEO]](https://slideslive.com/38940633/the-ups-and-downs-of-word-embeddings) <br/>
            **The ups and downs of word embeddings**
 
 **Abstract:** *Word embeddings have largely been a "success story" in our field. They have enabled progress in numerous language processing applications, and have facilitated the application of large-scale language analyses in other domains, such as social sciences and humanities.  While less talked about, word embeddings also have many shortcomings -- instability, lack of transparency, biases, and more. In this talk, I will review the "ups" and "downs" of word embeddings, discuss  tradeoffs, and chart potential future research directions to address some of the downsides of these word representations.*
@@ -38,7 +38,7 @@ Jatin Ganhotra, Robert Moore, Sachindra Joshi and Kahini Wadhawan
 
 <span class="time">9:15--10:00</span> **Social break / meal time**
 
-<span class="time">10:00--11:00</span> **Invited talk + live QA: [Byron C. Wallace (Northeastern University)](http://www.byronwallace.com/)** <br/>
+<span class="time">10:00--11:00</span> **Invited talk + live QA: [Byron C. Wallace (Northeastern University)](http://www.byronwallace.com/)** [[VIDEO]](https://slideslive.com/38940632/negative-results-yield-interesting-questions-or-a-bunch-of-stuff-that-didnt-work) <br/>
              **Negative results yield interesting questions, or: a bunch of stuff that didn't work**
 
 **Abstract:** *I will discuss recent projects in which ideas did not pan out as expected, but where these initial negative results led to (arguably) more interesting questions. My hope is that these case studies of negative results — which ultimately led to work we viewed as compelling enough to warrant write-up — will foster discussion about when "negative" results are nonetheless interesting, and about the kinds of questions we ask in empirical NLP research.* <br/><br/>
@@ -91,7 +91,7 @@ Shayne Longpre, Yu Wang and Christopher DuBois
 > - **WER we are and WER we think we are** <br/>
 Piotr Szymański, Piotr Żelasko, Mikolaj Morzy, Adrian Szymczak, Marzena Żyła-Hoppe, Joanna Banaszczak, Lukasz Augustyniak, Jan Mizgajski and Yishay Carmiel
 
-<span class="time">14:00--14:45</span> **The frustrations of leaderboardism. Panel discussion with [Kawin Ethayarajh](https://kawine.github.io/), [Jesse Dodge](http://www.cs.cmu.edu/~jessed/) and [Rachael Tatman](http://www.rctatman.com/)**
+<span class="time">14:00--14:45</span> **The frustrations of leaderboardism. Panel discussion with [Kawin Ethayarajh](https://kawine.github.io/), [Jesse Dodge](http://www.cs.cmu.edu/~jessed/) and [Rachael Tatman](http://www.rctatman.com/)** [[VIDEO]](https://www.youtube.com/watch?v=VauPmCJSlH8)
 
 *Leaderboards do not only drive progress in NLP: the bias towards publication of positive, and particularly state-of-the-art results implicitly encourages the development of highly specialized and brittle systems. If the reported success cannot be reproduced, or does not generalize well, the main result is much frustration by the developers who pick up academic papers in search of something that would actually work.*
 
