@@ -6,6 +6,8 @@
 title: Workshop on Insights from Negative Results in NLP
 ---
 
+> <span style="color:#267CB9">**News**:</span> After the successful first edition of Insights from Negative Results in 2020, we are looking forward to the second workshop that will be co-located with EMNLP 2021. Stay tuned for CFP!
+
 ## <span style="color:#267CB9">Why negative results?</span>
 
 Publication of negative results is difficult in most fields, but in NLP the problem is exacerbated by the near-universal focus on improvements in benchmarks. This situation implicitly discourages hypothesis-driven research, and it turns creation and fine-tuning of NLP models into art rather than science. Furthermore, it increases the time, effort, and carbon emissions spent on developing and tuning models, as the researchers have no opportunity to learn what has already been tried and failed.
