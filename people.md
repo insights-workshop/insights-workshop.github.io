@@ -7,9 +7,11 @@ permalink: /people/
 
 * [Anna Rogers](http://www.annargrs.github.io/), University of Copenhagen
 
-* [João Sedoc](https://www.clsp.jhu.edu/faculty/joao-sedoc/), Johns Hopkins University
+* [João Sedoc](https://www.stern.nyu.edu/faculty/bio/joao-sedoc), New York University
 
 * [Anna Rumshisky](http://www.cs.uml.edu/~arum/), University of Massachusetts Lowell
+
+* [Shabnam Tafreshi](https://www.linkedin.com/in/shabnamtafreshi), University of Maryland, ARLIS
 
 Contact: [insights-workshop-organizers@googlegroups.com](mailto:insights-workshop-organizers@googlegroups.com)
 
