@@ -1,6 +1,6 @@
 ---
 title: Accepted papers
-permalink: /accepted/
+permalink: /2020/accepted/
 ---
 
 The first iteration of *Insights* attracted 35 submissions and 11 presentation requests from authors of papers accepted to "Findings of EMNLP". We accepted 18 research papers (51.4\% acceptance rate) and granted 5 presentation requests.

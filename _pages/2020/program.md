@@ -1,6 +1,6 @@
 ---
 title: Program
-permalink: /program/
+permalink: /2020/program/
 ---
 
 # <span class="time">Program</span>

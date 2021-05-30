@@ -22,11 +22,17 @@ url: http://insights-workshop.github.io # the base hostname & protocol for your 
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
+include:
+  - _pages
+  - _pages/2021/
+  - _pages/2020/
+
 twitter:
   username: "annargrs"
 
 # Build settings
 markdown: kramdown
+relative_permalinks: false
 #theme: minima
 #theme: jekyll-whiteglass
 theme: jekyll-theme-minimal
