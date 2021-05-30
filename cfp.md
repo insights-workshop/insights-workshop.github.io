@@ -6,8 +6,8 @@ permalink: /cfp/
 
 # <span style="color:#267CB9"> Call for papers</span>
 
-Call For Papers: Insights from Negative Results Workshop 
-(Nov 19 2020, co-located with EMNLP 2020)
+First Call For Papers: The Second Workshop on Insights from Negative Results
+(Nov 10 2021, co-located with EMNLP 2021)
 
 ## Overview
 
@@ -17,7 +17,7 @@ This workshop invites both practical and theoretical unexpected or negative resu
 
 A successful negative results paper would contribute one of the following:
 
-* experiments on (in)stability of the previously published results due to hardware, random initializations, etc.;
+* experiments on(in) stability of the previously published results due to hardware, random initializations, etc.;
 * ablation studies of components in previously proposed models, showing that their contributions are different from the initially reported;
 * datasets or probing tasks showing that previous approaches do not generalize to other domains or language phenomena;
 * extensions or annotations of existing datasets which show that prior successes are due to spurious statistical factors or annotation artifacts;
@@ -30,11 +30,11 @@ Some examples of insightful negative results papers are listed on the workshop w
 
 ## Important Dates
 
-* Anonymity period begins: July 15, 2020
-* Submission deadline: August 15, 2020
-* Notification of acceptance: September 29, 2020
-* Camera-ready papers due: October 10, 2020
-* Workshop: November 19, 2020
+* Submission due: August 5, 2021
+* Submission due for papers reviewed through ACL Rolling Review: August 22, 2021
+* Notification of acceptance: September 5, 2021
+* Camera-ready papers due: September 15, 2021
+* Workshop: November 10/11, 2021
 
 All deadlines are 11.59 pm UTC -12h ("anywhere on Earth").
 
@@ -42,12 +42,12 @@ All deadlines are 11.59 pm UTC -12h ("anywhere on Earth").
 
 Submission is electronic, using the Softconf START conference management system. 
 
-Submission link: [https://www.softconf.com/emnlp2020/insights2020/](https://www.softconf.com/emnlp2020/insights2020/)
+Submission link: [https://www.softconf.com/emnlp2021/insights/](https://www.softconf.com/emnlp2021/insights/)
 
-The workshop will accept short papers (up to 4 pages, excluding references), as well as 1-2 page non-archival abstract submissions for papers published elsewhere (e.g. in one of the main conferences or in non-NLP venues). The goal of this event is to stimulate a meaningful community-wide discussion of the deep issues in NLP methodology, and the authors of both types of submissions will be welcome to take part in our virtual get-togethers. 
+The workshop will accept short papers (up to 4 pages, excluding references), as well as 1-2 page non-archival abstract submissions for papers published elsewhere (e.g. in one of the main conferences or in non-NLP venues). The goal of this event is to stimulate a meaningful community-wide discussion of the deep issues in NLP methodology, and the authors of both types of submissions will be welcome to take part in our get-togethers. 
 
-Both research papers and abstracts must follow the EMNLP 2020 two-column format.
-Official style sheets: [https://2020.emnlp.org/files/emnlp2020-templates.zip](https://2020.emnlp.org/files/emnlp2020-templates.zip)
+Both research papers and abstracts must follow the EMNLP 2021 two-column format.
+Official style sheets: [https://2021.emnlp.org/call-for-papers/style-and-formatting](https://2021.emnlp.org/call-for-papers/style-and-formatting)
 
 Please do not modify these style files, nor should you use templates designed for other conferences. Submissions that do not conform to the required styles, including paper size, margin width, and font size restrictions, will be rejected without review.
 
@@ -65,13 +65,14 @@ Papers (whether refereed or not) appearing less than 3 months before the submiss
 
 For more information, see the ACL Policies for Submission, Review, and Citation.
 
-## Multiple Submission Policy and Fast-Tracking
+## Multiple Submission Policy and ACL Rolling Reviews
 
-We welcome dual submissions, as long as they are specified at the time of submission time. 
+The workshop cannot accept work for publication or presentation that will be (or has been) published elsewhere and that have been or will be submitted to other meetings or publications whose review periods overlap with that of Insights. Any questions regarding submissions can be sent to insights-workshop-organizers@googlegroups.com.
 
-The authors submitting a paper that is under review for EMNLP 2020 should specify that in the submission form. The organizers would then be able to access the reviews and may decide to fast-track the paper to the workshop without additional reviews, if the paper is rejected from the main conference.
+If the paper has been rejected from another venue, the authors will have the option to provide the original reviews and the author response. The new reviewers will not have access to this information, but the organizers will be able to take into account the fact that the paper has already been revised and improved.
 
-If the paper has been rejected from another venue, the authors will have the option to provide the original reviews and the author response. The new reviewers will not have access to this information, but the AC will be able to take into account the fact that the paper has already been revised and improved.
+The Insights workshop will participate in the ACL rolling review system. The submission deadline will follow the ACL RR calendar [https://aclrollingreview.org/dates](https://aclrollingreview.org/dates) The submissions in the ARR system would need to apply for Insights with finalized reviews by August 22nd, 2021.
+
 
 ## NEW: Ethics Policy
 
@@ -86,15 +87,16 @@ We encourage the authors to link code repositories in the camera-ready versions.
 
 ## Anonymity Period
 
-We follow EMNLP anonymity policy. The anonymity period runs from 1 month before the submission deadline (starting July 15, 2020) up to the date when your paper is accepted or rejected (September 29, 2020). The papers should be properly anonymized and not publicized up until the acceptance notifications come out.
+We are not enforcing any anonymity period.
 
 ## Presentation
 
 All accepted papers must be presented at the workshop to appear in the proceedings. Authors of accepted papers must notify the program chairs by the camera-ready deadline if they wish to withdraw the paper. At least one author of each accepted paper must register for the workshop.
+
 Previous presentations of the work (e.g. preprints on arXiv.org) should be noted in a footnote in the camera-ready version (but not in the anonymized version of the paper).
 
-The workshop will take place online on November 19 2020, incorporating the best practices from other online conferences this year (such as ICLR and ACL). For now we are expecting to have pre-recorded oral presentations of the papers, live Q&A sessions (in which more than one author for each paper can take part), and also community discussion sessions and/or panels.
+The workshop will take place on November 10th, 2021. The workshop will be hybrid with both in-person and virtual presentations.
 
 ## Contact info
 
-You can reach us at [insights-workshop-organizers@googlegroups.com](mailto:insights-workshop-organizers@googlegroups.com).
+Any questions regarding the workshop can be sent to [insights-workshop-organizers@googlegroups.com](mailto:insights-workshop-organizers@googlegroups.com).
