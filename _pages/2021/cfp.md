@@ -77,6 +77,7 @@ The Insights workshop will participate in the ACL rolling review system. The sub
 ## Ethics Policy
 
 EMNLP workshops follow the conference guidelines for honouring the [ACM Code of Ethics](https://www.acm.org/code-of-ethics). Per conference guidelines, a paper that may raise ethical issues needs to explicitly discuss them, and that discussion will be taken into account in the review process. See [2021 Ethics FAQ](https://2021.emnlp.org/call-for-papers/ethics-faq). 
+
 Specific to the topic of negative results is the problem of revisiting published papers that cannot be reproduced. In most cases irreproducibility comes down to general methodological problems, but if you have reason to believe the unreproducible result was deliberately fabricated, that should be discussed.
 
 ## Reproducibility
