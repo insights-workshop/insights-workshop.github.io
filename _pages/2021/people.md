@@ -11,7 +11,7 @@ permalink: /2021/people/
 
 * [Anna Rumshisky](http://www.cs.uml.edu/~arum/), University of Massachusetts Lowell
 
-* [Shabnam Tafreshi](https://www.linkedin.com/in/shabnamtafreshi), ARLIS, University of Maryland
+* [Shabnam Tafreshi](https://www.linkedin.com/in/shabnamtafreshi), University of Maryland: ARLIS
 
 Contact: [insights-workshop-organizers@googlegroups.com](mailto:insights-workshop-organizers@googlegroups.com)
 
