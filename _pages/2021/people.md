@@ -79,7 +79,7 @@ Contact: [insights-workshop-organizers@googlegroups.com](mailto:insights-worksho
 * Neha Nayak Kennard, University of Massachusetts Amherst (USA)
 * Neville Ryant, Linguistic Data Consortium (USA)
 * Olha Kaminska, Ghent University (Belgium)
-* Pedram Hosseini, George Washington University
+* Pedram Hosseini, George Washington University (USA)
 * Salvatore Giorgi, University of Pennsylvania (USA)
 * Sardar Hamidian, Comcast (USA)
 * Sashank Santhanam, UNC Charlotte (USA)
