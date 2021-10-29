@@ -26,4 +26,8 @@ permalink: /2021/accepted/
 
 In addition to the above, the following EMNLP Findings papers will be presented at Insights:
 
-TBA
+- *Is BERT a Cross-Disciplinary Knowledge Learner? A Surprising Finding of Pre-trained Models' Transferability, Wei-Tsung Kao and Hung-yi Lee
+- *Do We Know What We Don't Know? Studying Unanswerable Questions beyond SQuAD 2.0, Elior Sulem, Jamaal Hay, and Dan Roth
+- *Does Vision-and-Language Pretraining Improve Lexical Grounding?, Tian Yun, Chen Sun,  and Ellie Pavlick
+- *Investigating Numeracy of a Text-to-Text Transfer model, Kuntal Kumar Pal and Chitta Baral
+- *Temporal Adaptation of BERT and Performance on Downstream Document Classification: Insights from Social Media, Paul Röttger and Janet B. Pierrehumbert
