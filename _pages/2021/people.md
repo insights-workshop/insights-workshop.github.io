@@ -9,7 +9,7 @@ permalink: /2021/people/
 
 * [João Sedoc](https://www.stern.nyu.edu/faculty/bio/joao-sedoc), New York University
 
-* [Anna Rumshisky](http://www.cs.uml.edu/~arum/), University of Massachusetts Lowell
+* [Anna Rumshisky](http://www.cs.uml.edu/~arum/), University of Massachusetts Lowell / Amazon Alexa
 
 * [Shabnam Tafreshi](https://www.linkedin.com/in/shabnamtafreshi), University of Maryland: ARLIS
 
