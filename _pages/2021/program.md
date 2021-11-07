@@ -59,6 +59,13 @@ All times are local time (Punta Cana, GMT-4).
 
 <span class="time">16:30–17:00</span> Oral presentation session 2
 - *Corrected CBOW Performs as well as Skip-gram* <br/> Ozan ˙Irsoy, Adrian Benton and Karl Stratos
+- *Recurrent Attention for the Transformer* <br/> Jan Rosendahl, Christian Herold, Frithjof Petrick and Hermann Ney
+- *An Investigation into the Contribution of Locally Aggregated Descriptors to Figurative Language Identification* <br/> Sina Mahdipour Saravani, Ritwik Banerjee and Indrakshi Ray.
+- *Blindness to Modality Helps Entailment Graph Mining* <br/> Liane Guillou, Sander Bijl de Vroe, Mark Johnson and Mark Steedman
+- *Generalization in NLI: Ways (Not) To Go Beyond Simple Heuristics* <br/> Prajjwal Bhargava, Aleksandr Drozd and Anna Rogers
+- *Challenging the Semi-Supervised VAE Framework for Text Classification* <br/> Ghazi Felhi, Joseph Le Roux and Djamé Seddah
+- *Investigating Numeracy of a Text-to-Text Transfer model* <br/> Kuntal Kumar Pal and Chitta Baral
+- *Do We Know What We Don't Know? Studying Unanswerable Questions beyond SQuAD 2.0, Elior Sulem* <br/> Jamaal Hay and Dan Roth
 
 <span class="time">17:00–18:00</span> Invited talk: [Rachael Tatman](http://www.rctatman.com/) (Rasa) <br/>
 
