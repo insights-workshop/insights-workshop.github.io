@@ -17,19 +17,21 @@ All times are local time (Punta Cana, GMT-4).
 > In this talk, I’ll discuss the frame of “negative results” that is used to describe outcomes in the research process, specifically in modern natural language processing.  I’ll link this frame to some assumptions that I think have been mostly harmful to research and researchers.  I’ll argue for a few first principles that can help us to design research projects in such a way that useful new information is likely to emerge, no matter what the experiments show.  Unfortunately, I can’t offer a foolproof method for avoiding “negative results,” but I do hope to move our field’s discourse to be better aligned with its broader goals, and offer some reminders about the incredible variety of ways to contribute to those goals.  Though this talk won’t spend much time highlighting the research findings of my mentees and collaborators, and the views expressed should only be taken as my own (not theirs), the worldview I discuss has developed through interactions with them, for which I am grateful.
  
 <span class="time">10:00–11:15</span> Poster session 1
-- *Does Commonsense help in detecting Sarcasm?* <br/> Somnath Basu Roy Chowdhury and Snigdha Chaturvedi
-- *Finetuning Pretrained Transformers into Variational Autoencoders* <br/> Seongmin Park and Jihwa Lee 
-- *Zero-Shot Cross-Lingual Transfer is a Hard Baseline to Beat in German Fine-Grained Entity Typing* <br/> Sabine Weber and Mark Steedman.
-- *Comparing Euclidean and Hyperbolic Embeddings on the WordNet Nouns Hypernymy Graph* <br/> Sameer Bansal and Adrian Benton.
-- *When does Further Pre-training MLM Help? An Empirical Study on Task-Oriented Dialog Pre-training* <br/> Qi Zhu, Yuxian Gu, Lingxiao Luo, Bing Li, Cheng LI, Wei Peng, Minlie Huang and Xiaoyan Zhu
-- *On the Difficulty of Segmenting Words with Attention* <br/> Ramon Sanabria, Hao Tang and Sharon Goldwater 
-- *Learning Data Augmentation Schedules for Natural Language Processing* <br/> Daphné Chopard, Matthias S. Treder and Irena Spasi´c 
-- *Investigating the Effect of Natural Language Explanations on Out-of-Distribution Generalization in Fewshot NLI* <br/> Yangqiaoyu Zhou and Chenhao Tan 
-- *Active Learning for Argument Strength Estimation* <br/> Nataliia Kees, Michael Fromm, Evgeniy Faerman and Thomas Seidl
-- *Temporal Adaptation of BERT and Performance on Downstream Document Classification: Insights from Social Media* <br/> Paul Röttger and Janet B. Pierrehumbert
-- *Two Heads are Better than One? Verification of Ensemble Effect in Neural Machine Translation* <br/> Chanjun Park, Sungjin Park, Seolhwa Lee, Taesun Whang and Heuiseok Lim 
-- *The Highs and Lows of Simple Lexical Domain Adaptation Approaches for Neural Machine Translation* <br/> Nikolay Bogoychev and Pinzhen Chen 
-- *Backtranslation in Neural Morphological Inflection* <br/> Ling Liu and Mans Hulden 
+> - *Does Commonsense help in detecting Sarcasm?* <br/> Somnath Basu Roy Chowdhury and Snigdha Chaturvedi
+> - *Finetuning Pretrained Transformers into Variational Autoencoders* <br/> Seongmin Park and Jihwa Lee 
+> - *Zero-Shot Cross-Lingual Transfer is a Hard Baseline to Beat in German Fine-Grained Entity Typing* <br/> Sabine Weber and Mark Steedman.
+> - *Comparing Euclidean and Hyperbolic Embeddings on the WordNet Nouns Hypernymy Graph* <br/> Sameer Bansal and Adrian Benton.
+> - *When does Further Pre-training MLM Help? An Empirical Study on Task-Oriented Dialog Pre-training* <br/> Qi Zhu, Yuxian Gu, Lingxiao Luo, Bing Li, Cheng LI, Wei Peng, Minlie Huang and Xiaoyan Zhu
+> - *On the Difficulty of Segmenting Words with Attention* <br/> Ramon Sanabria, Hao Tang and Sharon Goldwater 
+> - *Learning Data Augmentation Schedules for Natural Language Processing* <br/> Daphné Chopard, Matthias S. Treder and Irena Spasi´c 
+> - *Investigating the Effect of Natural Language Explanations on Out-of-Distribution Generalization in Fewshot NLI* <br/> Yangqiaoyu Zhou and Chenhao Tan 
+> - *Active Learning for Argument Strength Estimation* <br/> Nataliia Kees, Michael Fromm, Evgeniy Faerman and Thomas Seidl
+> - *Temporal Adaptation of BERT and Performance on Downstream Document Classification: Insights from Social Media* <br/> Paul Röttger and Janet B. Pierrehumbert
+> - *Two Heads are Better than One? Verification of Ensemble Effect in Neural Machine Translation* <br/> Chanjun Park, Sungjin Park, Seolhwa Lee, Taesun Whang and Heuiseok Lim 
+> - *The Highs and Lows of Simple Lexical Domain Adaptation Approaches for Neural Machine Translation* <br/> Nikolay Bogoychev and Pinzhen Chen 
+> - *Backtranslation in Neural Morphological Inflection* <br/> Ling Liu and Mans Hulden 
+> - *Does Vision-and-Language Pretraining Improve Lexical Grounding?* <br/> Tian Yun, Chen Sun and Ellie Pavlick
+
 
 
 
