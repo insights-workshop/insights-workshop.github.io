@@ -54,10 +54,6 @@ All times are local time (Punta Cana, GMT-4).
 > In this talk I will discuss distribution shift, both as an obstacle to be overcome to achieve generalization, and as a device for obtaining generalization guarantees. In the first part, I will discuss the problem of label shift, where the proportion among the labels can shift but the class conditional distributions do not change, including connections to some practical problems and some theoretical results. Then I will discuss a new work in which we deliberately perturb the distribution of training data in order to obtain a generalization guarantee.
  
 <span class="time">15:00–16:15</span> Poster session 2
-
-<span class="time">16:15–16:30</span> Social break / coffee time
-
-<span class="time">16:30–17:00</span> Oral presentation session 2
 - *Corrected CBOW Performs as well as Skip-gram* <br/> Ozan ˙Irsoy, Adrian Benton and Karl Stratos
 - *Recurrent Attention for the Transformer* <br/> Jan Rosendahl, Christian Herold, Frithjof Petrick and Hermann Ney
 - *An Investigation into the Contribution of Locally Aggregated Descriptors to Figurative Language Identification* <br/> Sina Mahdipour Saravani, Ritwik Banerjee and Indrakshi Ray.
@@ -66,6 +62,10 @@ All times are local time (Punta Cana, GMT-4).
 - *Challenging the Semi-Supervised VAE Framework for Text Classification* <br/> Ghazi Felhi, Joseph Le Roux and Djamé Seddah
 - *Investigating Numeracy of a Text-to-Text Transfer model* <br/> Kuntal Kumar Pal and Chitta Baral
 - *Do We Know What We Don't Know? Studying Unanswerable Questions beyond SQuAD 2.0, Elior Sulem* <br/> Jamaal Hay and Dan Roth
+- 
+<span class="time">16:15–16:30</span> Social break / coffee time
+
+<span class="time">16:30–17:00</span> Oral presentation session 2
 
 <span class="time">17:00–18:00</span> Invited talk: [Rachael Tatman](http://www.rctatman.com/) (Rasa) <br/>
 
