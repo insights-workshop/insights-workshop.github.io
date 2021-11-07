@@ -64,6 +64,7 @@ All times are local time (Punta Cana, GMT-4).
 > - *Challenging the Semi-Supervised VAE Framework for Text Classification* <br/> Ghazi Felhi, Joseph Le Roux and Djamé Seddah
 > - *Investigating Numeracy of a Text-to-Text Transfer model* <br/> Kuntal Kumar Pal and Chitta Baral
 > - *Do We Know What We Don't Know? Studying Unanswerable Questions beyond SQuAD 2.0, Elior Sulem* <br/> Jamaal Hay and Dan Roth
+
 <span class="time">16:15–16:30</span> Social break / coffee time
 
 <span class="time">16:30–17:00</span> Oral presentation session 2
