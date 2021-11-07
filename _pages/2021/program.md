@@ -27,6 +27,9 @@ All times are local time (Punta Cana, GMT-4).
 - *Investigating the Effect of Natural Language Explanations on Out-of-Distribution Generalization in Fewshot NLI* <br/> Yangqiaoyu Zhou and Chenhao Tan 
 - *Active Learning for Argument Strength Estimation* <br/> Nataliia Kees, Michael Fromm, Evgeniy Faerman and Thomas Seidl
 - *Temporal Adaptation of BERT and Performance on Downstream Document Classification: Insights from Social Media* <br/> Paul Röttger and Janet B. Pierrehumbert
+- *Two Heads are Better than One? Verification of Ensemble Effect in Neural Machine Translation* <br/> Chanjun Park, Sungjin Park, Seolhwa Lee, Taesun Whang and Heuiseok Lim 
+- *The Highs and Lows of Simple Lexical Domain Adaptation Approaches for Neural Machine Translation* <br/> Nikolay Bogoychev and Pinzhen Chen 
+- *Backtranslation in Neural Morphological Inflection* <br/> Ling Liu and Mans Hulden 
 
 
 
@@ -38,6 +41,10 @@ All times are local time (Punta Cana, GMT-4).
 > Everyone has their own stories about unfair reviewers, misguided reviewers,  and reviewers who just don't seem to get it. A Workshop on "Insights from  Negative Results" then seems just the place to reflect on who reviews are for, what purpose they serve for authors and reviewers, and what may be gained or lost from recent changes to conference reviewing.
 
 <span class="time">12:30–13:00</span> Oral presentation session 1
+- *Two Heads are Better than One? Verification of Ensemble Effect in Neural Machine Translation* <br/> Chanjun Park, Sungjin Park, Seolhwa Lee, Taesun Whang and Heuiseok Lim 
+- *The Highs and Lows of Simple Lexical Domain Adaptation Approaches for Neural Machine Translation* <br/> Nikolay Bogoychev and Pinzhen Chen 
+- *Backtranslation in Neural Morphological Inflection* <br/> Ling Liu and Mans Hulden 
+
 
 <span class="time">13:00–14:00</span> Lunch break
 
