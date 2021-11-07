@@ -18,6 +18,16 @@ All times are local time (Punta Cana, GMT-4).
  
 <span class="time">10:00–11:15</span> Poster session 1
 - *Does Commonsense help in detecting Sarcasm?* <br/> Somnath Basu Roy Chowdhury and Snigdha Chaturvedi
+- *Finetuning Pretrained Transformers into Variational Autoencoders* <br/> Seongmin Park and Jihwa Lee 
+- *Zero-Shot Cross-Lingual Transfer is a Hard Baseline to Beat in German Fine-Grained Entity Typing* <br/> Sabine Weber and Mark Steedman.
+- *Comparing Euclidean and Hyperbolic Embeddings on the WordNet Nouns Hypernymy Graph* <br/> Sameer Bansal and Adrian Benton.
+- *When does Further Pre-training MLM Help? An Empirical Study on Task-Oriented Dialog Pre-training* <br/> Qi Zhu, Yuxian Gu, Lingxiao Luo, Bing Li, Cheng LI, Wei Peng, Minlie Huang and Xiaoyan Zhu
+- *On the Difficulty of Segmenting Words with Attention* <br/> Ramon Sanabria, Hao Tang and Sharon Goldwater 
+- *Learning Data Augmentation Schedules for Natural Language Processing* <br/> Daphné Chopard, Matthias S. Treder and Irena Spasi´c 
+- *Investigating the Effect of Natural Language Explanations on Out-of-Distribution Generalization in Fewshot NLI* <br/> Yangqiaoyu Zhou and Chenhao Tan 
+- *Active Learning for Argument Strength Estimation* <br/> Nataliia Kees, Michael Fromm, Evgeniy Faerman and Thomas Seidl
+- *Temporal Adaptation of BERT and Performance on Downstream Document Classification: Insights from Social Media* <br/> Paul Röttger and Janet B. Pierrehumbert
+
 
 
 <span class="time">11:15–11:30</span> Social break / coffee time
