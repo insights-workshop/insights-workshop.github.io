@@ -66,6 +66,9 @@ All times are local time (Punta Cana, GMT-4).
 <span class="time">16:15–16:30</span> Social break / coffee time
 
 <span class="time">16:30–17:00</span> Oral presentation session 2
+- *BERT Cannot Align Characters* <br/> Antonis Maronikolakis, Philipp Dufter and Hinrich Schütze
+- *Are BERTs Sensitive to Native Interference in L2 Production?* <br/> Zixin Tang, Prasenjit Mitra and David Reitter
+- *Is BERT a Cross-Disciplinary Knowledge Learner? A Surprising Finding of Pre-trained Models' Transferability*  <br/> Wei-Tsung Kao and Hung-yi Lee
 
 <span class="time">17:00–18:00</span> Invited talk: [Rachael Tatman](http://www.rctatman.com/) (Rasa) <br/>
 
