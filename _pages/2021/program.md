@@ -58,6 +58,7 @@ All times are local time (Punta Cana, GMT-4).
 <span class="time">16:15–16:30</span> Social break / coffee time
 
 <span class="time">16:30–17:00</span> Oral presentation session 2
+- *Corrected CBOW Performs as well as Skip-gram* <br/> Ozan ˙Irsoy, Adrian Benton and Karl Stratos
 
 <span class="time">17:00–18:00</span> Invited talk: [Rachael Tatman](http://www.rctatman.com/) (Rasa) <br/>
 
