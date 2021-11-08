@@ -31,6 +31,7 @@ All times are local time (Punta Cana, GMT-4).
 > - *The Highs and Lows of Simple Lexical Domain Adaptation Approaches for Neural Machine Translation* <br/> Nikolay Bogoychev and Pinzhen Chen 
 > - *Backtranslation in Neural Morphological Inflection* <br/> Ling Liu and Mans Hulden 
 > - *Does Vision-and-Language Pretraining Improve Lexical Grounding?* <br/> Tian Yun, Chen Sun and Ellie Pavlick
+> - *Recurrent Attention for the Transformer* <br/> Jan Rosendahl, Christian Herold, Frithjof Petrick and Hermann Ney
 
 
 
@@ -57,7 +58,6 @@ All times are local time (Punta Cana, GMT-4).
  
 <span class="time">15:00–16:15</span> Poster session 2
 > - *Corrected CBOW Performs as well as Skip-gram* <br/> Ozan ˙Irsoy, Adrian Benton and Karl Stratos
-> - *Recurrent Attention for the Transformer* <br/> Jan Rosendahl, Christian Herold, Frithjof Petrick and Hermann Ney
 > - *An Investigation into the Contribution of Locally Aggregated Descriptors to Figurative Language Identification* <br/> Sina Mahdipour Saravani, Ritwik Banerjee and Indrakshi Ray.
 > - *Blindness to Modality Helps Entailment Graph Mining* <br/> Liane Guillou, Sander Bijl de Vroe, Mark Johnson and Mark Steedman
 > - *Generalization in NLI: Ways (Not) To Go Beyond Simple Heuristics* <br/> Prajjwal Bhargava, Aleksandr Drozd and Anna Rogers
