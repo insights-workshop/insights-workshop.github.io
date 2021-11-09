@@ -7,6 +7,8 @@ permalink: /2021/program/
 
 Insights 2021 will be a hybrid workshop. The poster sessions will be conducted online, in gather.town. The other sessions will have a mixture of virtual and on-site speakers and attendees.
 
+Please see [the workshop page on underline](https://underline.io/events/192/sessions?eventSessionId=7857) for the gather.town and zoom links. 
+
 All times are local time (Punta Cana, GMT-4).
 
 <span class="time">8:45–9:00</span> Opening remarks
