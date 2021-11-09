@@ -44,7 +44,7 @@ All times are local time (Punta Cana, GMT-4).
 **Some Results on Label Shift and Label Noise**
 > In this talk I will discuss distribution shift, both as an obstacle to be overcome to achieve generalization, and as a device for obtaining generalization guarantees. In the first part, I will discuss the problem of label shift, where the proportion among the labels can shift but the class conditional distributions do not change, including connections to some practical problems and some theoretical results. Then I will discuss a new work in which we deliberately perturb the distribution of training data in order to obtain a generalization guarantee.
 
-<span class="time">12:30–13:00</span> Oral presentation session 1
+<span class="time">12:30–13:00</span> Thematic session 1 (oral presentations)
 > - *Two Heads are Better than One? Verification of Ensemble Effect in Neural Machine Translation* [[PDF]](https://aclanthology.org/2021.insights-1.4/) [[Video]](https://underline.io/events/192/sessions/7857/lecture/39449-two-heads-are-better-than-onequestion-verification-of-ensemble-effect-in-neural-machine-translation) <br/> Chanjun Park, Sungjin Park, Seolhwa Lee, Taesun Whang and Heuiseok Lim 
 > - *The Highs and Lows of Simple Lexical Domain Adaptation Approaches for Neural Machine Translation* [[PDF]](https://aclanthology.org/2021.insights-1.12/) [[Video]](https://underline.io/events/192/sessions/7857/lecture/39457-the-highs-and-lows-of-simple-lexical-domain-adaptation-approaches-for-neural-machine-translation) <br/> Nikolay Bogoychev and Pinzhen Chen 
 > - *Backtranslation in Neural Morphological Inflection* [[PDF]](https://aclanthology.org/2021.insights-1.13/) [[Video]](https://underline.io/events/192/sessions/7857/lecture/39458-backtranslation-in-neural-morphological-inflection) <br/> Ling Liu and Mans Hulden 
@@ -73,7 +73,7 @@ All times are local time (Punta Cana, GMT-4).
 
 <span class="time">16:15–16:30</span> Social break / coffee time
 
-<span class="time">16:30–17:00</span> Oral presentation session 2
+<span class="time">16:30–17:00</span> Thematic session 2 (oral presentations)
 > - *BERT Cannot Align Characters* [[PDF]](https://aclanthology.org/2021.insights-1.3/) [[Video]](https://underline.io/events/192/sessions/7857/lecture/39448-bert-cannot-align-characters) <br/> Antonis Maronikolakis, Philipp Dufter and Hinrich Schütze
 > - *Are BERTs Sensitive to Native Interference in L2 Production?* [[PDF]](https://aclanthology.org/2021.insights-1.6/) [[Video]](https://underline.io/events/192/sessions/7857/lecture/39451-are-berts-sensitive-to-native-interference-in-l2-productionquestion) <br/> Zixin Tang, Prasenjit Mitra and David Reitter
 > - *Is BERT a Cross-Disciplinary Knowledge Learner? A Surprising Finding of Pre-trained Models' Transferability* [[PDF]](https://aclanthology.org/2021.findings-emnlp.189/) [[Video]](https://underline.io/events/192/sessions/7857/lecture/40585-is-bert-a-cross-disciplinary-knowledge-learnerquestion-a-surprising-finding-of-pre-trained-models%E2%80%99-transferability) <br/> Wei-Tsung Kao and Hung-yi Lee
