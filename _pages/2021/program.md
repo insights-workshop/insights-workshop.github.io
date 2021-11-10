@@ -43,8 +43,8 @@ All times are local time (Punta Cana, GMT-4).
 
 <span class="time">11:30–12:30</span> Invited talk: [Zachary Lipton](http://zacklipton.com/) (Carnegie Mellon University)<br/>
 
-**Some Results on Label Shift and Label Noise**
-> In this talk I will discuss distribution shift, both as an obstacle to be overcome to achieve generalization, and as a device for obtaining generalization guarantees. In the first part, I will discuss the problem of label shift, where the proportion among the labels can shift but the class conditional distributions do not change, including connections to some practical problems and some theoretical results. Then I will discuss a new work in which we deliberately perturb the distribution of training data in order to obtain a generalization guarantee.
+**When Cute Stories Belie a Messy Reality**
+> This talk will survey a broad set of negative results from our research over the last few years at ACMI lab, spanning (i) Reading Comprehension; (ii) Active Learning; (iii) Pretraining; (iv) Model Interpretation; (v) knowledge distillation; (vi) domain-adversarial neural networks; and (vii) Adversarial Question Answering. Some should have been seen from a mile away while others were genuinely surprising. The talk will touch upon some common themes, including (a) the blindspots that emerge when storytelling runs ahead of (or away from) the scientific process; (b) what constitutes a negative result worth publishing; and (c) positive outcomes from negative findings.
 
 <span class="time">12:30–13:00</span> Thematic session 1 (oral presentations)
 > - *Two Heads are Better than One? Verification of Ensemble Effect in Neural Machine Translation* [[PDF]](https://aclanthology.org/2021.insights-1.4/) [[Video]](https://underline.io/events/192/sessions/7857/lecture/39449-two-heads-are-better-than-onequestion-verification-of-ensemble-effect-in-neural-machine-translation) <br/> Chanjun Park, Sungjin Park, Seolhwa Lee, Taesun Whang and Heuiseok Lim 
