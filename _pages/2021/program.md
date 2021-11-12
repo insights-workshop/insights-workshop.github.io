@@ -13,7 +13,7 @@ All times are local time (Punta Cana, GMT-4).
 
 <span class="time">8:45–9:00</span> Opening remarks
 
-<span class="time">9:00–10:00</span> Invited talk: [Bonnie Webber](https://homepages.inf.ed.ac.uk/bonnie/) (University of Edinburgh)
+<span class="time">9:00–10:00</span> Invited talk: [Bonnie Webber](https://homepages.inf.ed.ac.uk/bonnie/) (University of Edinburgh) [[Video]](https://www.youtube.com/watch?v=wrBvQznrzKU)
 
 **The Reviewers and the Reviewed: Institutional Memory and Institutional Incentives**
 > Everyone has their own stories about unfair reviewers, misguided reviewers,  and reviewers who just don't seem to get it. A Workshop on "Insights from  Negative Results" then seems just the place to reflect on who reviews are for, what purpose they serve for authors and reviewers, and what may be gained or lost from recent changes to conference reviewing.
@@ -41,7 +41,8 @@ All times are local time (Punta Cana, GMT-4).
 
 <span class="time">11:15–11:30</span> Social break / coffee time
 
-<span class="time">11:30–12:30</span> Invited talk: [Zachary Lipton](http://zacklipton.com/) (Carnegie Mellon University)<br/>
+<span class="time">11:30–12:30</span> Invited talk: [Zachary Lipton](http://zacklipton.com/) (Carnegie Mellon University) [[Video Part 1]](https://www.youtube.com/watch?v=ldw33oNZaMs) [[Video Part 2]](https://www.youtube.com/watch?v=WsXulRdr80w) 
+<br/>
 
 **When Cute Stories Belie a Messy Reality**
 > This talk will survey a broad set of negative results from our research over the last few years at ACMI lab, spanning (i) Reading Comprehension; (ii) Active Learning; (iii) Pretraining; (iv) Model Interpretation; (v) knowledge distillation; (vi) domain-adversarial neural networks; and (vii) Adversarial Question Answering. Some should have been seen from a mile away while others were genuinely surprising. The talk will touch upon some common themes, including (a) the blindspots that emerge when storytelling runs ahead of (or away from) the scientific process; (b) what constitutes a negative result worth publishing; and (c) positive outcomes from negative findings.
@@ -54,7 +55,8 @@ All times are local time (Punta Cana, GMT-4).
 
 <span class="time">13:00–14:00</span> Lunch break
 
-<span class="time">14:00–15:00</span> Invited talk: [Rachael Tatman](http://www.rctatman.com/) (Rasa) <br/>
+<span class="time">14:00–15:00</span> Invited talk: [Rachael Tatman](http://www.rctatman.com/) (Rasa) [[Video]](https://www.youtube.com/watch?v=oHxRiTFtxOk) 
+<br/>
 
 **Chatbots can be good: What we learn from unhappy users**
 > It’s no secret that chatbots have a bad reputation: no one enjoys a cyclical, frustrating conversation when all you need is a quick answer to an urgent question. But chatbots can, in fact, be good. Having bad conversations can help us get there before they’re ever deployed
@@ -80,7 +82,7 @@ All times are local time (Punta Cana, GMT-4).
 > - *Are BERTs Sensitive to Native Interference in L2 Production?* [[PDF]](https://aclanthology.org/2021.insights-1.6/) [[Video]](https://underline.io/events/192/sessions/7857/lecture/39451-are-berts-sensitive-to-native-interference-in-l2-productionquestion) <br/> Zixin Tang, Prasenjit Mitra and David Reitter
 > - *Is BERT a Cross-Disciplinary Knowledge Learner? A Surprising Finding of Pre-trained Models' Transferability* [[PDF]](https://aclanthology.org/2021.findings-emnlp.189/) [[Video]](https://underline.io/events/192/sessions/7857/lecture/40585-is-bert-a-cross-disciplinary-knowledge-learnerquestion-a-surprising-finding-of-pre-trained-models%E2%80%99-transferability) <br/> Wei-Tsung Kao and Hung-yi Lee
 
-<span class="time">17:00–18:00</span> Invited talk: [Noah Smith](https://homes.cs.washington.edu/~nasmith/) (University of Washington / Allen Institute for AI) 
+<span class="time">17:00–18:00</span> Invited talk: [Noah Smith](https://homes.cs.washington.edu/~nasmith/) (University of Washington / Allen Institute for AI) [[Video]](https://www.youtube.com/watch?v=98bTx9rMjUo)
 
 **What Makes a Result Negative?**
 > In this talk, I’ll discuss the frame of “negative results” that is used to describe outcomes in the research process, specifically in modern natural language processing.  I’ll link this frame to some assumptions that I think have been mostly harmful to research and researchers.  I’ll argue for a few first principles that can help us to design research projects in such a way that useful new information is likely to emerge, no matter what the experiments show.  Unfortunately, I can’t offer a foolproof method for avoiding “negative results,” but I do hope to move our field’s discourse to be better aligned with its broader goals, and offer some reminders about the incredible variety of ways to contribute to those goals.  Though this talk won’t spend much time highlighting the research findings of my mentees and collaborators, and the views expressed should only be taken as my own (not theirs), the worldview I discuss has developed through interactions with them, for which I am grateful.
