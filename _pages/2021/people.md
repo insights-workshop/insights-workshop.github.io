@@ -17,7 +17,7 @@ Contact: [insights-workshop-organizers@googlegroups.com](mailto:insights-worksho
 
 ## <span style="color:#267CB9"> Invited speakers (in alphabetical order) </span>
 
-* [Zachary Lipton](http://zacklipton.com/), Carnegie Mellon University [[talk's video](https://www.youtube.com/watch?v=ldw33oNZaMs)] [[part 2](https://www.youtube.com/watch?v=WsXulRdr80w)]
+* [Zachary Lipton](http://zacklipton.com/), Carnegie Mellon University
 
 * [Noah Smith](https://homes.cs.washington.edu/~nasmith/), University of Washington / Allen Institute for AI
 
