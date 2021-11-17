@@ -17,13 +17,13 @@ Contact: [insights-workshop-organizers@googlegroups.com](mailto:insights-worksho
 
 ## <span style="color:#267CB9"> Invited speakers (in alphabetical order) </span>
 
-* [Zachary Lipton](http://zacklipton.com/), Carnegie Mellon University
+* [Zachary Lipton](http://zacklipton.com/), Carnegie Mellon University [talk video]
 
-* [Noah Smith](https://homes.cs.washington.edu/~nasmith/), University of Washington / Allen Institute for AI
+* [Noah Smith](https://homes.cs.washington.edu/~nasmith/), University of Washington / Allen Institute for AI [talk video]
 
-* [Rachael Tatman](http://www.rctatman.com/), Rasa
+* [Rachael Tatman](http://www.rctatman.com/), Rasa [talk video]
 
-* [Bonnie Webber](https://homepages.inf.ed.ac.uk/bonnie/), University of Edinburgh
+* [Bonnie Webber](https://homepages.inf.ed.ac.uk/bonnie/), University of Edinburgh [talk video]
 
 ## <span style="color:#267CB9"> Program committee (in alphabetical order) </span>
   
