@@ -19,11 +19,11 @@ Contact: [insights-workshop-organizers@googlegroups.com](mailto:insights-worksho
 
 * [Zachary Lipton](http://zacklipton.com/), Carnegie Mellon University [[talk's video](https://www.youtube.com/watch?v=ldw33oNZaMs)] [[part 2](https://www.youtube.com/watch?v=WsXulRdr80w)]
 
-* [Noah Smith](https://homes.cs.washington.edu/~nasmith/), University of Washington / Allen Institute for AI [talk's video](https://www.youtube.com/watch?v=98bTx9rMjUo)
+* [Noah Smith](https://homes.cs.washington.edu/~nasmith/), University of Washington / Allen Institute for AI [[talk's video](https://www.youtube.com/watch?v=98bTx9rMjUo)]
 
-* [Rachael Tatman](http://www.rctatman.com/), Rasa [talk's video](https://www.youtube.com/watch?v=oHxRiTFtxOk)
+* [Rachael Tatman](http://www.rctatman.com/), Rasa [[talk's video](https://www.youtube.com/watch?v=oHxRiTFtxOk)]
 
-* [Bonnie Webber](https://homepages.inf.ed.ac.uk/bonnie/), University of Edinburgh [talk's video](https://www.youtube.com/watch?v=wrBvQznrzKU)
+* [Bonnie Webber](https://homepages.inf.ed.ac.uk/bonnie/), University of Edinburgh [[talk's video](https://www.youtube.com/watch?v=wrBvQznrzKU)]
 
 ## <span style="color:#267CB9"> Program committee (in alphabetical order) </span>
   
