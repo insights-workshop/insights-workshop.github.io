@@ -84,7 +84,7 @@ All times are local time (Punta Cana, GMT-4).
 
 <span class="time">17:00–18:00</span> Invited talk: [Noah Smith](https://homes.cs.washington.edu/~nasmith/) (University of Washington / Allen Institute for AI) [[Video]](https://www.youtube.com/watch?v=98bTx9rMjUo)
 
-**What Makes a Result Negative?**
+# **What Makes a Result Negative?**
 > In this talk, I’ll discuss the frame of “negative results” that is used to describe outcomes in the research process, specifically in modern natural language processing.  I’ll link this frame to some assumptions that I think have been mostly harmful to research and researchers.  I’ll argue for a few first principles that can help us to design research projects in such a way that useful new information is likely to emerge, no matter what the experiments show.  Unfortunately, I can’t offer a foolproof method for avoiding “negative results,” but I do hope to move our field’s discourse to be better aligned with its broader goals, and offer some reminders about the incredible variety of ways to contribute to those goals.  Though this talk won’t spend much time highlighting the research findings of my mentees and collaborators, and the views expressed should only be taken as my own (not theirs), the worldview I discuss has developed through interactions with them, for which I am grateful.
  
 <span class="time">18:00–18:15</span> Closing remarks
