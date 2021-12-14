@@ -4,9 +4,8 @@ title: CFP
 permalink: /2022/cfp/
 ---
 
-# <span style="color:#267CB9"> Call for papers</span>
-
-First Call For Papers: The Third Workshop on Insights from Negative Results
+# <span style="color:#267CB9"> Call for papers </span>
+<!-- First Call For Papers: The Third Workshop on Insights from Negative Results (May 26 or 27 2022, co-located with ACL 2022)-->
 (May 26 or 27 2022, co-located with ACL 2022)
 
 ## Overview
@@ -17,7 +16,7 @@ This workshop invites both practical and theoretical unexpected or negative resu
 
 A successful negative results paper would contribute one of the following:
 
-* experiments on(in) stability of the previously published results due to hardware, random initializations, etc.;
+* experiments on (in)stability of the previously published results due to hardware, random initializations, etc.;
 * ablation studies of components in previously proposed models, showing that their contributions are different from the initially reported;
 * datasets or probing tasks showing that previous approaches do not generalize to other domains or language phenomena;
 * extensions or annotations of existing datasets which show that prior successes are due to spurious statistical factors or annotation artifacts;
