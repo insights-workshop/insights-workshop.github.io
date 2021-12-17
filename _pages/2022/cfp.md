@@ -43,7 +43,7 @@ All deadlines are 11.59 pm UTC -12h ("anywhere on Earth").
 
 Submission is electronic, using the OpenReview conference management system. 
 
-Submission link: TBA
+Submission link: [https://openreview.net/group?id=aclweb.org/ACL/2022/Workshop/Insights](https://openreview.net/group?id=aclweb.org/ACL/2022/Workshop/Insights)
 
 The workshop will accept short papers (up to 4 pages, excluding references), as well as 1-2 page non-archival abstract submissions for papers published elsewhere (e.g. in one of the main conferences or in non-NLP venues). The goal of this event is to stimulate a meaningful community-wide discussion of the deep issues in NLP methodology, and the authors of both types of submissions will be welcome to take part in our get-togethers. 
 
@@ -76,15 +76,17 @@ The Insights workshop will receive papers accompanied with reviews from ACL roll
 
 ## Ethics Policy
 
-ACL workshops follow the conference guidelines for honouring the [ACM Code of Ethics](https://www.acm.org/code-of-ethics). Per conference guidelines, a paper that may raise ethical issues needs to explicitly discuss them, and that discussion will be taken into account in the review process. See [ARR responsible NLP checklist](https://aclrollingreview.org/responsibleNLPresearch/). 
+*ACL workshops follow the conference guidelines for honouring the [ACM Code of Ethics](https://www.acm.org/code-of-ethics). Per conference guidelines, a paper that may raise ethical issues needs to explicitly discuss them, and that discussion will be taken into account in the review process. We suggest considering the questions in the [ARR responsible NLP checklist](https://aclrollingreview.org/responsibleNLPresearch/), in particular the questions related to the motivation for the choice of data to demonstrate the given negative result. We encourage realistic discussions of limitations. To help the reviewers quickly find which information is in your paper and where, you may choose to provide the filled-in checklist together with your submission. 
 
-Specific to the topic of negative results is the problem of revisiting published papers that cannot be reproduced. In most cases irreproducibility comes down to general methodological problems, but if you have reason to believe the unreproducible result was deliberately fabricated, that should be discussed.
+Specific to the topic of negative results is the problem of revisiting published papers that cannot be reproduced. In most cases it comes down to general methodological problems, but if you have reason to believe the unreproducible result was deliberately fabricated, that should be discussed.
 
 ## Reproducibility
 
 Publishing negative results is not easy, partly because the author has the burden of proof that something truly does not work, rather than is caused by a bug. 
 
-We encourage the authors to link code repositories in the camera-ready versions. At submission time, each submission can be accompanied by one PDF appendix for the paper, one PDF for prior reviews and author response, one .tgz or .zip archive containing software, and one.tgz or .zip archive containing data (all fully anonymized). The appendix can document preprocessing decisions, model parameters, feature templates, lengthy proofs or derivations, pseudocode, sample system inputs/outputs, and other details that are necessary for the exact replication of the work (see the official EMNLP reproducibility guidelines). However, the paper submissions need to remain fully self-contained, as these supplementary materials are completely optional, and reviewers are not even asked to review or download them. 
+We encourage the authors to link code repositories in the camera-ready versions, and consider the questions in the reproducibility section of [ARR responsible NLP checklist](https://aclrollingreview.org/responsibleNLPresearch/). 
+
+At submission time, each submission can be accompanied by one PDF appendix for the paper, one PDF for prior reviews and author response, the optional checklist, one .tgz or .zip archive containing software, and one.tgz or .zip archive containing data (all fully anonymized). The appendix can document preprocessing decisions, model parameters, feature templates, lengthy proofs or derivations, pseudocode, sample system inputs/outputs, and other details that are necessary for the exact replication of the work. However, the paper submissions need to remain fully self-contained, as the supplementary materials are completely optional, and reviewers are not asked to review or download them. If you choose to provide the filled-in checklist together with the submission, it would help the reviewers and chairs to be able to quickly assess what information is provided and where.
 
 ## Anonymity Period
 
