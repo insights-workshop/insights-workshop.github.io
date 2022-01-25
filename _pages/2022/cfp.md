@@ -30,7 +30,7 @@ Some examples of insightful negative results papers are listed on the workshop w
 ## Important Dates
 
 * First CFP: December 20, 2021
-* Second CFP: February 6, 2022
+* Second CFP: January 26, 2022
 * Submission due: February 28, 2022
 * Submission due for papers reviewed through ACL Rolling Review: March 21, 2022
 * Notification of acceptance: March 26, 2022
@@ -46,6 +46,8 @@ Submission is electronic, using the OpenReview conference management system.
 Submission link: [https://openreview.net/group?id=aclweb.org/ACL/2022/Workshop/Insights](https://openreview.net/group?id=aclweb.org/ACL/2022/Workshop/Insights)
 
 The workshop will accept short papers (up to 4 pages, excluding references), as well as 1-2 page non-archival abstract submissions for papers published elsewhere (e.g. in one of the main conferences or in non-NLP venues). The goal of this event is to stimulate a meaningful community-wide discussion of the deep issues in NLP methodology, and the authors of both types of submissions will be welcome to take part in our get-togethers. 
+
+The workshop will run its own review process, and papers can be submitted directly to the workshop by **February 28, 2022**. It is also possible to submit a paper accompanied with reviews from the ACL Rolling Review system by **March 21, 2022**. The submission deadline for ARR papers follows the ACL RR calendar [https://aclrollingreview.org/dates](https://aclrollingreview.org/dates).
 
 Both research papers and abstracts must follow the ACL two-column format.
 Official style sheets: [Overleaf template](https://www.overleaf.com/read/crtcwgxzjskr), [Latex/Word template download](https://github.com/acl-org/ACLPUB/tree/master/templates).
@@ -66,13 +68,11 @@ Papers (whether refereed or not) appearing less than 3 months before the submiss
 
 For more information, see the ACL Policies for Submission, Review, and Citation.
 
-## Multiple Submission Policy and ACL Rolling Reviews
+## Multiple Submission Policy 
 
 The workshop cannot accept work for publication or presentation that will be (or has been) published elsewhere and that have been or will be submitted to other meetings or publications whose review periods overlap with that of Insights. Any questions regarding submissions can be sent to insights-workshop-organizers@googlegroups.com.
 
 If the paper has been rejected from another venue, the authors will have the option to provide the original reviews and the author response. The new reviewers will not have access to this information, but the organizers will be able to take into account the fact that the paper has already been revised and improved.
-
-The Insights workshop will receive papers accompanied with reviews from ACL rolling review. The submission deadline will follow the ACL RR calendar [https://aclrollingreview.org/dates](https://aclrollingreview.org/dates). The submissions in the ARR system would need to apply for Insights with finalized reviews by March 21, 2022.
 
 ## Ethics Policy
 
