@@ -61,7 +61,7 @@ Contact: [insights-workshop-organizers@googlegroups.com](mailto:insights-worksho
 * Jeremy Barnes, Forsiden IFI (Germany)
 * Jessica Ouyang, The University of Texas at Dallas (USA)
 * Jin-Ge Yao, Microsoft Research (USA)
-* John Ortega, JP Morgen (USA)
+* John Ortega, New York University (USA)
 * Jordan Rodu, University of Virginia (USA)
 * Karo Moilanen, AIG (USA)
 * Kenton Murray,  John Hopkins University (USA)
