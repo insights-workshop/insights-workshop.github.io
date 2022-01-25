@@ -5,7 +5,7 @@ permalink: /2022/cfp/
 ---
 
 # <span style="color:#267CB9"> Call for papers </span>
-<!-- First Call For Papers: The Third Workshop on Insights from Negative Results (May 26 or 27 2022, co-located with ACL 2022)-->
+<!-- Second Call For Papers: The Third Workshop on Insights from Negative Results (May 26 2022, co-located with ACL 2022)-->
 (May 26 2022, co-located with ACL 2022)
 
 ## Overview
