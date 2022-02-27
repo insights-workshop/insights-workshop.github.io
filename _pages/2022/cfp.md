@@ -31,7 +31,7 @@ Some examples of insightful negative results papers are listed on the workshop w
 
 * First CFP: December 20, 2021
 * Second CFP: January 26, 2022
-* Submission due: February 28, 2022
+* Submission due: ~~February 28, 2022~~ March 5th, 2022
 * Submission due for papers reviewed through ACL Rolling Review: March 21, 2022
 * Notification of acceptance: March 26, 2022
 * Camera-ready papers due: April 10, 2022
