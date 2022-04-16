@@ -22,9 +22,4 @@ permalink: /2022/organization/
 
 Contact: [insights-workshop-organizers@googlegroups.com](mailto:insights-workshop-organizers@googlegroups.com)
 
-## <span style="color:#267CB9"> Invited speakers (in alphabetical order) </span>
-
-* [Barbara Plank](https://bplank.github.io/), IT University of Copenhagen 
-
-* [Tal Linzen](https://tallinzen.net/), NYU
 
