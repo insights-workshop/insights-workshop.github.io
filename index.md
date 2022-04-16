@@ -23,3 +23,8 @@ A successful negative results paper would contribute one of the following:
 * broadly applicable recommendations for training/fine-tuning, especially if the X that didn't work is something that many practitioners would think reasonable to try, and if the demonstration of X's failure is accompanied by some explanation/hypothesis.
 
 The Workshop for Insights from Negative Results  invites short papers as well as non-archival abstract submissions for papers published elsewhere (e.g. in one of the main conferences or in non-NLP venues). Our goal is to provide not only a publication venue, but an opportunity to discuss the most urgent methodological issues, and to think about where the field is going.
+
+Thank you to all those who are sponsoring Insights Workshop 2022.
+<br />
+<br />
+<img src="/assets/img/googlelogo_color_416x140dp.png" width:50%>
