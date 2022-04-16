@@ -3,6 +3,8 @@ title: Sponsors
 permalink: /2022/sponsors/
 ---
 
+## <span style="color:#267CB9"> Sponsors </span>
+
 Thank you to all those who are sponsoring Insights Workshop 2022.
 <br />
 <br />
