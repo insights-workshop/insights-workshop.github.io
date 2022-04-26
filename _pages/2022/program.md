@@ -13,7 +13,6 @@ Thursday, May 26, 2022 <br />
 
 <span class="time">10:00–10:30</span> Thematic Session 1: Improving Evaluation Practices
 
-> - *MetaEval: Evaluating Automated Scholarly Article Evaluators* <br /> Jash Mehta, Shruti Singh and Mayank Singh
 > - *Replicability under Near-Perfect Conditions – A Case-Study from Automatic Summarization* <br /> Margot Mieskes
 > - *On the Limits of Evaluating Embodied Agent Model Generalization Using Validation Sets* <br /> Hyounghun Kim, Aishwarya Padmakumar, Di Jin, Mohit Bansal and Dilek Hakkani-Tur
 
