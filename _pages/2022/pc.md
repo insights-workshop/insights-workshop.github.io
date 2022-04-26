@@ -21,6 +21,7 @@ permalink: /2022/pc/
 * Ekaterina Vylomova, University of Melbourne
 * Ellie Pavlick, Brown University
 * Emiel Krahmer, Tilburg University
+* Emil Vatai, RIKEN
 * Huda Khayrallah, Microsoft
 * Indraneil Paul, Amazon
 * Jessica Ouyang, University of Texas at Dallas
@@ -33,6 +34,7 @@ permalink: /2022/pc/
 * Marco Basaldella, Amazon
 * Maximilian Splieth¨over, Universit¨at Paderborn
 * Michael Gamon, Microsoft Research
+* Machel Reid, The University of Tokyo
 * Montse Cuadros Oller, Vicomtech
 * Nada Almarwani, Taibah University
 * Neha Nayak Kennard, University of Massachusetts, Amherst
@@ -41,6 +43,7 @@ permalink: /2022/pc/
 * Phu Mon Htut, New York University
 * Prasanna Parasurama, New York University
 * Qingqing Cao, University of Washington, Seattle
+* Raphael Shu, Amazon
 * Salvatore Giorgi, University of Pennsylvania
 * Sawsan Alqahtani, Princess Nourah Bint Abdulrahman University
 * Shubham Chatterjee, University of New Hampshire, Durham
