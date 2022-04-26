@@ -28,6 +28,5 @@ Amit P. Sheth, Srinivasan Parthasarathy and Olivier Bodenreider
 - *An Empirical study to understand the Compositional Prowess of Neural Dialog Models* <br/> Vinayshekhar Bannihatti Kumar, Vaibhav Kumar, Mukul Bhutani and Alexander Rudnicky
 - *Combining Extraction and Generation for Constructing Belief-Consequence Causal Links* <br/> Maria Alexeeva, Allegra A. Beal A. Beal and Mihai Surdeanu
 - *Replicability under Near-Perfect Conditions – A Case-Study from Automatic Summarization* <br/> Margot Mieskes
-- *MetaEval: Evaluating Automated Scholarly Article Evaluators* <br/> Jash Mehta, Shruti Singh and Mayank Singh
 - *BPE beyond Word Boundary: How NOT to use Multi Word Expressions in Neural Machine Translation* <br/> Dipesh Kumar and Avijit Thawani
 - *Pre-trained language models evaluating themselves - A comparative study* <br /> Philipp Koch, Matthias Aßenmacher and Christian Heumann
