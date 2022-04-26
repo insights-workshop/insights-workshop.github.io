@@ -14,7 +14,7 @@ Thursday, May 26, 2022 <br />
 <span class="time">10:00–10:30</span> Thematic Session 1: Improving Evaluation Practices
 
 > - *MetaEval: Evaluating Automated Scholarly Article Evaluators* <br /> Jash Mehta, Shruti Singh and Mayank Singh
-> - *Replicability under Near-Perfect Conditions – A Case-Study from Automatic Summarization * <br /> Margot Mieskes
+> - *Replicability under Near-Perfect Conditions – A Case-Study from Automatic Summarization* <br /> Margot Mieskes
 > - *On the Limits of Evaluating Embodied Agent Model Generalization Using Validation Sets* <br /> Hyounghun Kim, Aishwarya Padmakumar, Di Jin, Mohit Bansal and Dilek Hakkani-Tur
 
 <span class="time">10:30–11:00</span> Coffee Break
@@ -41,5 +41,7 @@ Thursday, May 26, 2022 <br />
 > - *Challenges in including extra-linguistic context in pre-trained language models* <br /> Ionut Teodor Sorodoc, Laura Aina and Gemma Boleda
 
 <span class="time">16:00–17:00</span> Invited talk: [Tal Linzen](https://tallinzen.net/) (NYU)
+
 <span class="time">17:00–18:00</span> Poster Session
+
 <span class="time">18:00–18:10</span> Closing Remarks
