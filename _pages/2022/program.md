@@ -11,6 +11,10 @@ Thursday, May 26, 2022 <br />
 
 <span class="time">9:00–10:00</span> Invited talk: [Barbara Plank](https://bplank.github.io/) (LMU Munich)
 
+**Off the Beaten Track: On Serendipity and Turning "Failures" into Signal**
+
+> In this talk, I'll first reflect upon the research process in current NLP and discuss how the principle of serendipity can play an important role in the design of research projects. In the second part, I will provide a series of examples to illustrate how something perceived as "noise" can yield research opportunities. These include leveraging  fortuitous data like meta-data for low-resource NLP, human disagreement in labelling, and I will also provide some puzzling results on an understudied BERT detail.
+
 <span class="time">10:00–10:30</span> Thematic Session 1: Improving Evaluation Practices
 
 > - *Replicability under Near-Perfect Conditions – A Case-Study from Automatic Summarization* <br /> Margot Mieskes [[PDF]](https://aclanthology.org/2022.insights-1.23/), [[Video]](https://underline.io/events/284/sessions/10984/lecture/52739-replicability-under-near-perfect-conditions-%E2%80%93-a-case-study-from-automatic-summarization)
