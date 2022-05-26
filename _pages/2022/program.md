@@ -20,7 +20,7 @@ Thursday, May 26, 2022 <br />
 > - *Replicability under Near-Perfect Conditions – A Case-Study from Automatic Summarization* <br /> Margot Mieskes [[PDF]](https://aclanthology.org/2022.insights-1.23/), [[Video]](https://underline.io/events/284/sessions/10984/lecture/52739-replicability-under-near-perfect-conditions-%E2%80%93-a-case-study-from-automatic-summarization)
 > - *On the Limits of Evaluating Embodied Agent Model Generalization Using Validation Sets* <br /> Hyounghun Kim, Aishwarya Padmakumar, Di Jin, Mohit Bansal and Dilek Hakkani-Tur [[PDF]](https://aclanthology.org/2022.insights-1.15/), [[Video]](https://underline.io/events/284/sessions/10984/lecture/52730-on-the-limits-of-evaluating-embodied-agent-model-generalization-using-validation-sets)
 
-<span class="time">10:30–11:00</span> Coffee Break
+<span class="time">10:30–11:30</span> Coffee Break
 
 <span class="time">11:30–12:00</span> Thematic Session 2: Transformers
 > - *How Much Do Modifications to Transformer Language Models Affect Their Ability to Learn Linguistic Knowledge?* <br /> Simeng Sun, Brian Dillon and Mohit Iyyer [[PDF]](https://aclanthology.org/2022.insights-1.6/), [[Video]](https://underline.io/events/284/sessions/10984/lecture/52720-how-much-do-modifications-to-transformer-language-models-affect-their-ability-to-learn-linguistic-knowledgequestion)
