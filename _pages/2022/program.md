@@ -9,9 +9,9 @@ Thursday, May 26, 2022 <br />
 
 <span class="time">8:45–9:00</span> Opening remarks
 
-<span class="time">9:00–10:00</span> Invited talk: [Barbara Plank](https://bplank.github.io/) (LMU Munich)
+<span class="time">9:00–10:00</span> Invited talk: [Barbara Plank](https://bplank.github.io/) (LMU Munich) 
 
-**Off the Beaten Track: On Serendipity and Turning "Failures" into Signal**
+**Off the Beaten Track: On Serendipity and Turning "Failures" into Signal** [VIDEO](https://youtu.be/_A5vEuqXOM8)
 
 > In this talk, I'll first reflect upon the research process in current NLP and discuss how the principle of serendipity can play an important role in the design of research projects. In the second part, I will provide a series of examples to illustrate how something perceived as "noise" can yield research opportunities. These include leveraging  fortuitous data like meta-data for low-resource NLP, human disagreement in labelling, and I will also provide some puzzling results on an understudied BERT detail.
 
@@ -49,7 +49,7 @@ Thursday, May 26, 2022 <br />
 
 <span class="time">16:00–17:00</span> Invited talk: [Tal Linzen](https://tallinzen.net/) (NYU)
 
-**Sensitivity to Initial Weights in Out-of-distribution Generalization**
+**Sensitivity to Initial Weights in Out-of-distribution Generalization** [VIDEO](https://youtu.be/uDBsTLKaquU)
 
 > The results of experiments that involve training neural networks can be sensitive to the networks’ initial weights. In this talk I will review work from my group and others that shows that such sensitivity can be quite dramatic when the network is evaluated on its out-of-distribution generalization accuracy, as is typically the case with the challenge datasets popular in the “interpretability” community. In one experiment, when we fine-tuned BERT 100 times on the same dataset, in-distribution test set accuracy was reasonably stable, but out-of-distribution behavior differed qualitatively across runs. The recent MultiBERTs project, where BERT was retrained 25 times, demonstrates that this variability persists across pretrained models as well. This variability makes it harder to interpret the results on a single fine-tuning run of a challenge dataset, and highlights a potentially underappreciated consequence of neural networks’ weak inductive biases.
 
