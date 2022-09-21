@@ -34,7 +34,7 @@ Thursday, May 26, 2022 <br />
 
 <span class="time">12:30–14:00</span> Lunch
 
-<span class="time">14:00–15:00</span> **Panel Discussion: How Bad are Annotation Disagreements, Really?**
+<span class="time">14:00–15:00</span> **Panel Discussion: How Bad are Annotation Disagreements, Really?** [VIDEO](https://youtu.be/UB9UIFxnULg)
 
 *Panelists:* [Margot Mieskes](https://sis.h-da.de/personen/professor-innen-auf-einen-blick/prof-dr-margot-mieskes/) (University of Applied Sciences, Darmstadt), [Barbara Plank](https://bplank.github.io/) (LMU Munich), [Massimo Poesio](http://www.eecs.qmul.ac.uk/profiles/poesiomassimo.html) (Queen Mary University of London), [Bonnie Webber](https://homepages.inf.ed.ac.uk/bonnie/) (University of Edinburgh) 
 
