@@ -1,4 +1,4 @@
 ---
 title: Speakers
-permalink: /2022/speakers/
+permalink: /2023/speakers/
 ---
