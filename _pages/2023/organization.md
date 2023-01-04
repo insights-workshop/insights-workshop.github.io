@@ -1,4 +1,3 @@
-
 ---
 title: Organization
 permalink: /2023/organization/
