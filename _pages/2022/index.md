@@ -8,5 +8,5 @@ permalink: /2022/
 
 * [Call for papers](/2022/cfp)
 * [Workshop program](/2022/program)
-* [People](/2022/people)
+* [People](/2022/pc)
 
