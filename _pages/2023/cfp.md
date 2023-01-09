@@ -93,7 +93,7 @@ All accepted papers must be presented at the workshop to appear in the proceedin
 
 Previous presentations of the work (e.g. preprints on arXiv.org) should be noted in a footnote in the camera-ready version (but not in the anonymized version of the paper).
 
-The workshop will take place on May 2 or 6 2023. The workshop will be hybrid with both in-person and virtual presentations.
+The workshop will take place on May 2 or 6, 2023. The workshop will be hybrid with both in-person and virtual presentations.
 
 ## Contact info
 
