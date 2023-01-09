@@ -43,12 +43,9 @@ Submission is electronic, using the Softconf START conference management system.
 
 Submission link: [https://softconf.com/eacl2023/insights2023/](https://softconf.com/eacl2023/insights2023/)
 
-The workshop will accept short papers (up to 4 pages, excluding references), as well as 1-2 page non-archival abstract submissions for papers published elsewhere (e.g. in one of the main conferences or in non-NLP venues). The goal of this event is to stimulate a meaningful community-wide discussion of the deep issues in NLP methodology, and the authors of both types of submissions will be welcome to take part in our get-togethers. 
+The workshop will accept short papers (up to 4 pages, excluding references), as well as 1-2 page non-archival abstract submissions for papers published elsewhere (e.g. in one of the main conferences or in non-NLP venues). The goal of this event is to stimulate a meaningful community-wide discussion of the deep issues in NLP methodology, and the authors of both types of submissions will be welcome to take part in our get-togethers.
 
-The workshop will run its own review process, and papers can be submitted directly to the workshop by **February 28, 2022**. It is also possible to submit a paper accompanied with reviews from the ACL Rolling Review system by **March 21, 2022**. The submission deadline for ARR papers follows the ACL RR calendar [https://aclrollingreview.org/dates](https://aclrollingreview.org/dates).
-
-Both research papers and abstracts must follow the ACL two-column format.
-Official style sheets: [Overleaf template](https://www.overleaf.com/read/crtcwgxzjskr), [Latex/Word template download](https://github.com/acl-org/ACLPUB/tree/master/templates).
+The workshop will run its own review process, and papers can be submitted directly to the workshop by March 13, 2023. It is also possible to submit a paper accompanied with reviews from the ACL Rolling Review system by March 17, 2023. The submission deadline for ARR papers follows the ACL RR calendar. Both research papers and abstracts must follow the ACL two-column format. Official style sheets: [Overleaf template](https://www.overleaf.com/read/crtcwgxzjskr), [Latex/Word template download](https://github.com/acl-org/ACLPUB/tree/master/templates).
 
 Please do not modify these style files, nor should you use templates designed for other conferences. Submissions that do not conform to the required styles, including paper size, margin width, and font size restrictions, will be rejected without review.
 
@@ -96,7 +93,7 @@ All accepted papers must be presented at the workshop to appear in the proceedin
 
 Previous presentations of the work (e.g. preprints on arXiv.org) should be noted in a footnote in the camera-ready version (but not in the anonymized version of the paper).
 
-The workshop will take place on May 26 2022. The workshop will be hybrid with both in-person and virtual presentations.
+The workshop will take place on May 2 or 6 2023. The workshop will be hybrid with both in-person and virtual presentations.
 
 ## Contact info
 
