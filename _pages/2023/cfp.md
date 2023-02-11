@@ -6,7 +6,7 @@ permalink: /2023/cfp/
 
 # <span style="color:#267CB9"> Call for papers </span>
 <!-- Second Call For Papers: The Third Workshop on Insights from Negative Results (May 26 2022, co-located with ACL 2022)-->
-(May 5 or 6, 2023, co-located with EACL 2023)
+(May 6, 2023, co-located with EACL 2023)
 
 ## Overview
 
@@ -33,7 +33,7 @@ A successful negative results paper would contribute one of the following:
 * Submission due for papers reviewed through ACL Rolling Review: March 17, 2023
 * Notification of acceptance: March 13, 2023
 * Camera-ready papers due: March 27, 2023
-* Workshop: May 5 or 6, 2023
+* Workshop: May 6, 2023
 
 All deadlines are 11.59 pm UTC -12h ("anywhere on Earth").
 
@@ -93,7 +93,7 @@ All accepted papers must be presented at the workshop to appear in the proceedin
 
 Previous presentations of the work (e.g. preprints on arXiv.org) should be noted in a footnote in the camera-ready version (but not in the anonymized version of the paper).
 
-The workshop will take place on May 2 or 6, 2023. The workshop will be hybrid with both in-person and virtual presentations.
+The workshop will take place on May 6, 2023. The workshop will be hybrid with both in-person and virtual presentations.
 
 ## Contact info
 
