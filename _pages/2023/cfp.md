@@ -31,7 +31,7 @@ A successful negative results paper would contribute one of the following:
 
 * Submission due: <del>February 13, 2023</del> February 20, 2023
 * Submission due for papers reviewed through ACL Rolling Review: March 17, 2023
-* Notification of acceptance: March 13, 2023
+* Notification of acceptance: <del>March 13, 2023</del> March 17, 2023
 * Camera-ready papers due: March 27, 2023
 * Workshop: May 5 or 6, 2023
 
