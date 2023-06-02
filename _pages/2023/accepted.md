@@ -9,6 +9,10 @@ permalink: /2023/accepted/
 - *Annotating PubMed Abstracts with MeSH Headings using Graph Neural Network* <br />Faizan Mustafa, Rafika Boutalbi and Anastasiia Iurshina 
 - *What Does BERT actually Learn about Event Coreference? Probing Structural Information in a Fine-Tuned Dutch Language Model* <br />Loic De Langhe, Orphee De Clercq and Veronique Hoste
 - *Do not Trust the Experts: How the Lack of Standard Complicates NLP for Historical Irish* <br />Oksana Dereza, Theodorus Fransen and John P. McCrae
+- *Edit Aware Representation Learning via Levenshtein Prediction* <br />Edison Marrese-taylor, Machel Reid and Alfredo Solano
+- *Estimating Numbers without Regression* <br />Avijit Thawani, Jay Pujara and Ashwin Kalyan
+- *What changes when you randomly choose BPE merge operations? Not much.* <br />Jonne Saleva and Constantine Lignos
+- *SocBERT: A Pretrained Model for Social Media Text* <br /> Yuting Guo and Abeed Sarker 
 - *Encoding Sentence Position in Context-Aware Neural Machine Translation with Concatenation* <br />Lorenzo Lupo, Marco Dinarelli and Laurent Besacier
 - *ERATE: Efficient Retrieval Augmented Text Embeddings* <br />Vatsal Raina, Nora Kassner, Kashyap Popat, Patrick Lewis, Nicola Cancedda and Louis Martin
 - *Estimating Numbers without Regression* <br />Avijit Thawani, Jay Pujara and Ashwin Kalyan
