@@ -7,6 +7,7 @@ permalink: /2023/accepted/
 - *A Data-centric Framework for Improving Domain-specific Machine Reading Comprehension Datasets* <br />Iva Bojic, Josef Evan Halim, Verena Karina Suharman, Sreeja Tar, Qi Chwen Ong, Duy Phung, Mathieu Ravaut, Shafiq Joty and Josip Car 
 - *An Empirical Study on Active Learning for Multi-label Text Classification* <br />Mengqi Wang and Ming Liu
 - *Annotating PubMed Abstracts with MeSH Headings using Graph Neural Network* <br />Faizan Mustafa, Rafika Boutalbi and Anastasiia Iurshina 
+- *What Does BERT actually Learn about Event Coreference? Probing Structural Information in a Fine-Tuned Dutch Language Model* <br />Loic De Langhe, Orphee De Clercq and Veronique Hoste
 - *Do not Trust the Experts: How the Lack of Standard Complicates NLP for Historical Irish* <br />Oksana Dereza, Theodorus Fransen and John P. McCrae
 - *Encoding Sentence Position in Context-Aware Neural Machine Translation with Concatenation* <br />Lorenzo Lupo, Marco Dinarelli and Laurent Besacier
 - *ERATE: Efficient Retrieval Augmented Text Embeddings* <br />Vatsal Raina, Nora Kassner, Kashyap Popat, Patrick Lewis, Nicola Cancedda and Louis Martin
