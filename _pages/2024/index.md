@@ -1,6 +1,6 @@
 ---
 # layout: page
-title: 2023
+title: 2024
 permalink: /2024/
 ---
 
