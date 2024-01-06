@@ -5,7 +5,7 @@ permalink: /2023/
 ---
 
 ---
-# <span style="color:#267CB9">Insights 2022 archive</span>
+# <span style="color:#267CB9">Insights 2023 archive</span>
 ## <span style="color:#267CB9">Why negative results?</span>
 
 Publication of negative results is difficult in most fields, but in NLP the problem is exacerbated by the near-universal focus on improvements in benchmarks. This situation implicitly discourages hypothesis-driven research, and it turns creation and fine-tuning of NLP models into art rather than science. Furthermore, it increases the time, effort, and carbon emissions spent on developing and tuning models, as the researchers have no opportunity to learn what has already been tried and failed.
