@@ -12,7 +12,7 @@ permalink: /2024/cfp/
 
 Publication of negative results is difficult in most fields, but in NLP the problem is exacerbated by the near-universal focus on improvements in benchmarks. This situation implicitly discourages hypothesis-driven research, and it turns creation and fine-tuning of NLP models into art rather than science. Furthermore, it increases the time, effort, and carbon emissions spent on developing and tuning models, as the researchers have no opportunity to learn what has already been tried and failed.
 
-This workshop invites both practical and theoretical unexpected or negative results that have important implications for future research, highlight methodological issues with existing approaches, and/or point out pervasive misunderstandings or bad practices. In particular, the most successful NLP models currently rely on different kinds of pretrained meaning representations (from word embeddings to Transformer-based models like BERT and GPT-3). To complement all the success stories, it would be insightful to see where and possibly why they fail. Any NLP tasks are welcome: sequence labeling, question answering, inference, dialogue, machine translation - you name it.
+This workshop invites both practical and theoretical unexpected or negative results that have important implications for future research, highlight methodological issues with existing approaches, and/or point out pervasive misunderstandings or bad practices. In particular, the most successful NLP models currently rely on Transformer-based large language models (LLMs). To complement all the success stories, it would be insightful to see where and possibly why they fail. Any NLP tasks are welcome: sequence labeling, question answering, inference, dialogue, machine translation - you name it.
 
 A successful negative results paper would contribute one of the following:
 
@@ -25,6 +25,10 @@ A successful negative results paper would contribute one of the following:
 * theoretical arguments and/or proofs for why X should not be expected to work;
 * demonstration of issues with data processing/collection/annotation pipelines, especially if they are widely used;
 * demonstration of issues with evaluation metrics (e.g. accuracy, F1 or BLEU), which prevent their usage for fair comparison of methods.
+* demonstration of issues with under-reporting of training details of pre-trained models, including test data contamination and invalid comparisons
+
+
+In 2024, we will invite the authors of accepted negative results papers to nominate the specific work reporting the original positive results. The goal is to organize joint discussion sessions, so that the community can learn the most from the specific insightful failure.
 
 
 ## Important Dates
