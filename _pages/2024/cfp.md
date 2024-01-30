@@ -44,7 +44,7 @@ All deadlines are 11.59 pm UTC -12h ("anywhere on Earth").
 ## Submissions
 
 Submission is electronic, using the Softconf START conference management system. 
-Submission link: [https://softconf.com/naacl2024/Insights2024](https://softconf.com/naacl2024/Insights2024)
+Submission link: [https://softconf.com/naacl2024/Insights2024](https://softconf.com/naacl2024/insights2024)
 
 The workshop will accept short papers (up to 4 pages, excluding references), as well as 1-2 page non-archival abstract submissions for papers published elsewhere (e.g. in one of the main conferences or in non-NLP venues). The goal of this event is to stimulate a meaningful community-wide discussion of the deep issues in NLP methodology, and the authors of both types of submissions will be welcome to take part in our get-togethers.
 
