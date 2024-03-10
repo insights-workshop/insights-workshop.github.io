@@ -33,10 +33,10 @@ In 2024, we will invite the authors of accepted negative results papers to nomin
 
 ## Important Dates
 
-* Submission due: March 10, 2024
+* Submission due: March 17, 2024
 * Submission due for papers reviewed through ACL Rolling Review: April 7, 2024
-* Notification of acceptance: April 14, 2024
-* Camera-ready papers due: April 24, 2024
+* Notification of acceptance: April 20, 2024
+* Camera-ready papers due: April 30, 2024
 * Workshop: TBA, between June 21-22, 2024
 
 All deadlines are 11.59 pm UTC -12h ("anywhere on Earth").
