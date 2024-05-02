@@ -1,58 +1,54 @@
 - title: Opening Remarks
   start_time: 2024-06-20 09:00:00
   end_time: 2024-06-20 09:15:00
-- title: "Thematic Session 1: Text Generation"
+- title: "Oral session 1"
   start_time: 2024-06-20 09:15:00
-  end_time: 2024-06-20 10:00:00
+  end_time: 2024-06-20 09:45:00
   papers:
-    - id: 13
-    - id: 4
-    - id: 21
-- title: "Invited Talk: TBA"
-  start_time: 2024-06-20 10:00:00
-  end_time: 2024-06-20 10:45:00
+    - id: 11111
+    - id: 11111
+- title: "Oral session 2"
+  start_time: 2024-06-20 09:45:00
+  end_time: 2024-06-20 10:15:00
+  papers:
+    - id: 11111
+    - id: 11111
 - title: Coffee Break
-  start_time: 2024-06-20 10:45:00
-  end_time: 2024-06-20 11:15:00
-- title: "Thematic Session 2: XXXX"
+  start_time: 2024-06-20 10:15:00
+  end_time: 2024-06-20 10:45:00
+- title: "Invited Talk 1: Marius XXXX"
   start_time: 2024-06-20 11:15:00
   end_time: 2024-06-20 11:45:00
-  papers:
-    - id: 100
-    - id: 3
-    - id: 24
-- title: "Thematic Session 3: XXXX"
+- title: "Thematic Session: Debates"
   start_time: 2024-06-20 11:45:00
-  end_time: 2024-06-20 12:15:00
+  end_time: 2024-06-20 12:45:00
   papers:
-    - id: 5
-    - id: 9
-    - id: 12
+    - id: 11111
+    - id: 11111
 - title: Lunch
-  start_time: 2024-06-20 12:15:00
+  start_time: 2024-06-20 12:45:00
   end_time: 2024-06-20 14:00:00
-- title: "Invited Talk: XXXXX"
+- title: "Orals 3"
   start_time: 2024-06-20 14:00:00
   end_time: 2024-06-20 14:30:00
-- title: "Thematic Session 4: XXXXX"
+  papers:
+   - id: 11111
+   - id: 11111
+- title: "Orals 4"
   start_time: 2024-06-20 14:30:00
   end_time: 2024-06-20 15:00:00
   papers:
-   - id: 101
-   - id: 102
-   - id: 14
-- title: "Invited Talk: XXXXXX"
+   - id: 11111
+   - id: 11111
+- title: "Invited Talk2 : XXXXXX"
   start_time: 2024-06-20 15:00:00
   end_time: 2024-06-20 15:30:00
 - title: Coffee Break
   start_time: 2024-06-20 15:30:00
   end_time: 2024-06-20 16:00:00
-- title: "Invited Talk: XXXXXX"
-  start_time: 2024-06-20 16:00:00
-  end_time: 2024-06-20 16:30:00
 - title: Poster Session
-  start_time: 2024-06-20 16:30:00
-  end_time: 2024-06-20 18:00:00
+  start_time: 2024-06-20 16:00:00
+  end_time: 2024-06-20 17:00:00
 - title: Closing Remarks
-  start_time: 2024-06-20 18:00:00
-  end_time: 2024-06-20 18:10:00
+  start_time: 2024-06-20 17:00:00
+  end_time: 2024-06-20 17:15:00
