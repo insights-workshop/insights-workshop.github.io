@@ -16,7 +16,7 @@
 - title: Coffee Break
   start_time: 2024-06-20 10:15:00
   end_time: 2024-06-20 10:45:00
-- title: "Invited Talk 1: Marius XXXX"
+- title: "Invited Talk 1. Marius Mosbach - Analysis Work in NLP: The Good, the Bad and the Ugly"
   start_time: 2024-06-20 11:15:00
   end_time: 2024-06-20 11:45:00
 - title: "Special Technical Session: Debates"
@@ -40,7 +40,7 @@
   papers:
    - id: 11111
    - id: 11111
-- title: "Invited Talk 2 : XXXXXX"
+- title: "Invited Talk 2. Sasha Luccioni - Reproducibility in ML and the Environment: What's the Connection?"
   start_time: 2024-06-20 15:00:00
   end_time: 2024-06-20 15:30:00
 - title: Coffee Break
