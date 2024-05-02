@@ -5,14 +5,14 @@
   start_time: 2024-06-20 09:15:00
   end_time: 2024-06-20 09:45:00
   papers:
-    - id: 11111
-    - id: 11111
+    - id: 11
+    - id: 15
 - title: "Technical session 2"
   start_time: 2024-06-20 09:45:00
   end_time: 2024-06-20 10:15:00
   papers:
-    - id: 11111
-    - id: 11111
+    - id: 13
+    - id: 27
 - title: Coffee Break
   start_time: 2024-06-20 10:15:00
   end_time: 2024-06-20 10:45:00
@@ -23,8 +23,8 @@
   start_time: 2024-06-20 11:45:00
   end_time: 2024-06-20 12:45:00
   papers:
-    - id: 11111
-    - id: 11111
+    - id: 3
+    - id: 9
 - title: Lunch
   start_time: 2024-06-20 12:45:00
   end_time: 2024-06-20 14:00:00
@@ -32,14 +32,14 @@
   start_time: 2024-06-20 14:00:00
   end_time: 2024-06-20 14:30:00
   papers:
-   - id: 11111
-   - id: 11111
+   - id: 10
+   - id: 30
 - title: "Technical session 4"
   start_time: 2024-06-20 14:30:00
   end_time: 2024-06-20 15:00:00
   papers:
-   - id: 11111
-   - id: 11111
+   - id: 21
+   - id: 32
 - title: "Invited Talk 2. Sasha Luccioni - Reproducibility in ML and the Environment: What's the Connection?"
   start_time: 2024-06-20 15:00:00
   end_time: 2024-06-20 15:30:00
