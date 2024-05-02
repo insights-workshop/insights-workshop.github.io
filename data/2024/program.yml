@@ -1,13 +1,13 @@
 - title: Opening Remarks
   start_time: 2024-06-20 09:00:00
   end_time: 2024-06-20 09:15:00
-- title: "Oral session 1"
+- title: "Technical session 1"
   start_time: 2024-06-20 09:15:00
   end_time: 2024-06-20 09:45:00
   papers:
     - id: 11111
     - id: 11111
-- title: "Oral session 2"
+- title: "Technical session 2"
   start_time: 2024-06-20 09:45:00
   end_time: 2024-06-20 10:15:00
   papers:
@@ -19,7 +19,7 @@
 - title: "Invited Talk 1: Marius XXXX"
   start_time: 2024-06-20 11:15:00
   end_time: 2024-06-20 11:45:00
-- title: "Thematic Session: Debates"
+- title: "Special Technical Session: Debates"
   start_time: 2024-06-20 11:45:00
   end_time: 2024-06-20 12:45:00
   papers:
@@ -28,19 +28,19 @@
 - title: Lunch
   start_time: 2024-06-20 12:45:00
   end_time: 2024-06-20 14:00:00
-- title: "Orals 3"
+- title: "Technical session  3"
   start_time: 2024-06-20 14:00:00
   end_time: 2024-06-20 14:30:00
   papers:
    - id: 11111
    - id: 11111
-- title: "Orals 4"
+- title: "Technical session 4"
   start_time: 2024-06-20 14:30:00
   end_time: 2024-06-20 15:00:00
   papers:
    - id: 11111
    - id: 11111
-- title: "Invited Talk2 : XXXXXX"
+- title: "Invited Talk 2 : XXXXXX"
   start_time: 2024-06-20 15:00:00
   end_time: 2024-06-20 15:30:00
 - title: Coffee Break
