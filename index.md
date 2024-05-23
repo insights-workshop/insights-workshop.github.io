@@ -6,10 +6,6 @@
 title: Workshop on Insights from Negative Results in NLP
 ---
 
-## <span style="color:#990000">(notice in view of multiple questions from authors: yes camera ready IS 5 PAGES</span>
- (will be removed after deadline)
-
-
 ## <span style="color:#267CB9">Why negative results?</span>
 
 Publication of negative results is difficult in most fields, but in NLP the problem is exacerbated by the near-universal focus on improvements in benchmarks. This situation implicitly discourages hypothesis-driven research, and it turns creation and fine-tuning of NLP models into art rather than science. Furthermore, it increases the time, effort, and carbon emissions spent on developing and tuning models, as the researchers have no opportunity to learn what has already been tried and failed.
