@@ -1,0 +1,8 @@
+services:
+  site:
+    image: insights/site
+    build: ./
+    volumes:
+      - $PWD:/workdir
+    ports:
+      - "4000:4000"
