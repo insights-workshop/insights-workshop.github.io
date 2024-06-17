@@ -6,7 +6,7 @@ permalink: /2024/cfp/
 
 # <span style="color:#267CB9"> Call for papers </span>
 <!-- Second Call For Papers: The Third Workshop on Insights from Negative Results (May 26 2022, co-located with ACL 2022)-->
-(June 2024, co-located with NAACL 2024)
+(June 20 2024, co-located with NAACL 2024)
 
 ## Overview
 
