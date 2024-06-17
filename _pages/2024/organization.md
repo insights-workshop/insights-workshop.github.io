@@ -5,7 +5,7 @@ permalink: /2024/organization/
 
 ## <span style="color:#267CB9"> Organizing committee</span>
 
-* [Shabnam Tafreshi](https://www.linkedin.com/in/shabnamtafreshi), University of Maryland: ARLIS
+* [Shabnam Tafreshi](https://www.linkedin.com/in/shabnamtafreshi),  AI inQbator at Evernorth Healthcare and UMD
 
 * [Arjun Reddy Akula](https://research.google/people/ArjunReddyAkula/), Google DeepMind
 
