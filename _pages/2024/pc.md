@@ -5,35 +5,36 @@ permalink: /2024/pc/
 
 ## <span style="color:#267CB9"> Program committee (in alphabetical order) </span>
   
-* Ali Seyfi, George Washington University
-* Ameya Godbole, University of Southern California 
-* Amittai Axelrod, Apple
-* Andrey Kutuzov, University of Oslo
-* Anil Nelakanti, Amazon
-* Anuj Khare, Google
-* Arijit Adhikari, Amazon
-* Anil Kumar Nelakanti, Amazon
-* Ashutosh  Modi, Indian Institute of Technology Kanpur
-* Carolina  Scarton, University of Sheffield 
-* Chanjun Park, Korea University
-* Chung-Chi Chen, National Institute of Advanced Industrial Science and Technology
-* Constantine Lignos, Brandeis University
-* David Samuel, University of Oslo, Language Technology Group
-* Edison Marrese-Taylor, National Institute of Advanced Industrial Science and Technology (AIST)
-* Efsun Kayi, Johns Hopkins APL
-* Emil Vatai, RIKEN
-* Gaurav Mishra, Google
-* Giovanni Puccetti, Scuola Normale Superiore di Pisa
-* Guenter Neumann, DFKI & Saarland University
-* Happy Buzaaba, RIKEN
-* John Ortega, Northeastern University
-* Kaveri Anuranjana, Saarland University
-* Mahesh Goud Tandarpally, Amazon
-* Marzena Karpinska, University of Massachusetts Amherst
-* Maximilian Splieth¨over, Leibniz University Hannover
-* Neha Nayak Kennard, University of Massachusetts, Amherst
-* Salvatore Giorgi, University of Pennsylvania
-* Shubham Chatterjee, University of Glasgow
-* Tamás Ficsor, University of Szeged
-* Tristan Naumann, Microsoft Research
-* Wazir Ali, Institute of Business Management
+Adrian Benton, Google
+Anuj Khare, Google LLC
+Ashutosh Modi, Indian Institute of Technology Kanpur
+Ayush Singh, Evernorth Health Services Inc.
+Chanjun Park, Upstage
+Chung-Chi Chen, National Institute of Advanced Industrial Science and Technology
+Edward Gow - Smith, University of Sheffield
+Emil Vatai, Riken R-CCS
+Gaurav Kumar, Google
+Giovanni Puccetti, Scuola Normale Superiore di Pisa
+Huda Khayrallah, Microsoft
+Jitesh Punjabi, Google LLC
+John E. Ortega, Northeastern University
+Jordan Rodu, University of Virginia
+Juan Navarro Horniacek, Google
+Kazuma Hashimoto, Google Research
+Mahesh Goud Tandarpally, Amazon
+Marzena Karpinska, University of Massachusetts Amherst
+Maximilian Spliethover, Leibniz University Hannover
+Neha Nayak Kennard, University of Massachusetts Amherst
+Nihal Balani, Google
+Salvatore Giorgi, University of Pennsylvania
+Saranya Krishnamoorthy, Evernorth Health Services
+Seolhwa Lee, Technical University of Darmstadt
+Shaun Cassini, University of Sheffield
+Shreya Havaldar, University of Pennsylvania
+Shubham Vatsal, New York University
+Sunny Rai, University of Pennsylvania
+Tamas Ficsor, University of Szeged
+Tristan Naumann, Microsoft Research
+Wazir Ali, University of Turku
+Yifei Li, University of Pennsylvania
+Young Min Cho, University of Pennsylvania
