@@ -7,7 +7,7 @@ permalink: /2024/organization/
 
 * [Shabnam Tafreshi](https://www.linkedin.com/in/shabnamtafreshi), University of Maryland: ARLIS
 
-* [Arjun Reddy Akula](https://research.google/people/ArjunReddyAkula/), Google Research
+* [Arjun Reddy Akula](https://research.google/people/ArjunReddyAkula/), Google DeepMind
 
 * [João Sedoc](https://www.stern.nyu.edu/faculty/bio/joao-sedoc), New York University
  
