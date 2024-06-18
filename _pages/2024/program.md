@@ -19,7 +19,9 @@ permalink: /2024/program/
 - WINOVIZ: Probing Visual Properties of Objects Under Different States
 
 
-10:15 Coffee Break
+10:15 Best paper award announcement
+
+10:30 Coffee Break
 
 11:00 Techincal session 3
 
