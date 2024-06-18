@@ -4,6 +4,14 @@ The project website for the Workshop on Insights from Negative Results in NLP
 
 ## Building:
 
+run with docker
+
+`docker compose build`
+
+`docker compose up`
+
+## Run locally (deprecated)
+
 install jekyll
 
 https://jekyllrb.com/docs/installation/ubuntu/
