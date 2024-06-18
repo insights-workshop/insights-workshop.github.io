@@ -9,25 +9,33 @@ permalink: /2024/program/
 09:00 Opening Remarks
 
 09:15 Techincal session 1 
-- An Analysis of BPE Vocabulary Trimming in Neural Machine Translation
+- *An Analysis of BPE Vocabulary Trimming in Neural Machine Translation*<br>
+Marco Cognetta, Tatsuya Hiraoka, Rico Sennrich, Yuval Pinter and Naoaki Okazaki
 
-- Pointer-Generator Networks for Low-Resource Machine Translation: Don't Copy That!
+- *Pointer-Generator Networks for Low-Resource Machine Translation: Don't Copy That!*<br>
+Niyati Bafna, Philipp Koehn and David Yarowsky
 
 09:45 Techincal session 2
-- On the Limits of Multi-modal Meta-Learning with Auxiliary Task Modulation Using Conditional Batch Normalization
+- *On the Limits of Multi-modal Meta-Learning with Auxiliary Task Modulation Using Conditional Batch Normalization*<br>
+Jordi Armengol-Estapé, Vincent Michalski,Ramnath Kumar, Pierre-Luc St-Charles, Doina Precup and Samira Ebrahimi Kahou  
 
-- WINOVIZ: Probing Visual Properties of Objects Under Different States
+- *WINOVIZ: Probing Visual Properties of Objects Under Different States*<br>
+Woojeong Jin, Tejas Srinivasan, Jesse Thomason and Xiang Ren
 
 
-10:15 Best paper award announcement
+- *Multi-Task Learning with Adapters for Plausibility Prediction: Bridging the Gap or Falling into the Trenches?*<br>
+Annerose Eichel and Sabine Schulte im Walde
+
 
 10:30 Coffee Break
 
 11:00 Techincal session 3
 
-- What explains the success of cross-modal fine-tuning with ORCA?
+- *What explains the success of cross-modal fine-tuning with ORCA?*<br>
+Paloma Garcia de Herreros Garcia, Vagrant Gautam, Philipp Slusallek, Dietrich Klakow and Marius Mosbach
 
-- I Have an Attention Bridge to Sell You: Generalization Capabilities of Modular Translation Architectures
+- *I Have an Attention Bridge to Sell You: Generalization Capabilities of Modular Translation Architectures*<br>
+Timothee Mickus, Raul Vazquez and Joseph Attieh
 
 11:30 Invited Talk 1. Sasha Luccioni.
 
@@ -40,12 +48,17 @@ Bio: Dr. Sasha Luccioni is a leading scientist at the nexus of artificial intell
 12:00 Lunch
 
 14:00 Technical session 4
-- Knowledge Distillation vs. Pretraining from Scratch under a Fixed (Computation) Budget
-- The Paradox of Preference: A Study on LLM Alignment Algorithms and Data Acquisition Methods
+- *Knowledge Distillation vs. Pretraining from Scratch under a Fixed (Computation) Budget*<br>
+Minh Duc, Bui Fabian, Schmidt Goran Glavaš and Katharina von der Wense
+  
+- *The Paradox of Preference: A Study on LLM Alignment Algorithms and Data Acquisition Methods*<br>
+Rishikesh Devanathan, Varun Nathan and Ayush Kumar
   
 14:30 Technical session 5
-- Can probing classifiers reveal the learning by contact center large language models?: No, it doesn't!
-- Multi-Task Learning with Adapters for Plausibility Prediction: Bridging the Gap or Falling into the Trenches?
+- *Can probing classifiers reveal the learning by contact center large language models?: No, it doesn't!*<br>
+Varun Nathan, Ayush Kumar and Digvijay Ingle
+  
+- Best paper award announcement
 
 15:00 Invited Talk 2. Marius Mosbach
 
@@ -58,7 +71,6 @@ Interpretability and analysis researchers are often motivated by the idea that a
 Bio:
 
 Dr. Marius Mosbach is a postdoctoral researcher at McGill University and Mila - Quebec AI Institute, working with Siva Reddy. Prior to this, he did his PhD at Saarland University, Germany, where he focused on analyzing pre-trained and fine-tuning language models. He is broadly interested in building NLP systems that are well understood, robust, and easy to adapt. Beyond research, he enjoys CrossFit and explaining to people where Saarland is.
-
 
 
 15:30 Coffee Break
