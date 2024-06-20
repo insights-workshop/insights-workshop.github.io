@@ -48,17 +48,19 @@ Bio: Dr. Sasha Luccioni is a leading scientist at the nexus of artificial intell
 12:00 Lunch
 
 14:00 Technical session 4
+- Best paper award announcement
+
 - *Knowledge Distillation vs. Pretraining from Scratch under a Fixed (Computation) Budget*<br>
 Minh Duc, Bui Fabian, Schmidt Goran Glavaš and Katharina von der Wense
   
-- *The Paradox of Preference: A Study on LLM Alignment Algorithms and Data Acquisition Methods*<br>
-Rishikesh Devanathan, Varun Nathan and Ayush Kumar
   
 14:30 Technical session 5
+- *The Paradox of Preference: A Study on LLM Alignment Algorithms and Data Acquisition Methods*<br>
+Rishikesh Devanathan, Varun Nathan and Ayush Kumar
+
 - *Can probing classifiers reveal the learning by contact center large language models?: No, it doesn't!*<br>
 Varun Nathan, Ayush Kumar and Digvijay Ingle
   
-- Best paper award announcement
 
 15:00 Invited Talk 2. Marius Mosbach
 
