@@ -43,7 +43,7 @@ All deadlines are 11.59 pm UTC -12h ("anywhere on Earth").
 ## Submissions
 
 Submission is electronic, using the Softconf START conference management system. 
-Submission link: TBA / [https://softconf.com/naacl2025/insights2025](https://softconf.com/naacl2025/insights2025)
+Submission link: [https://softconf.com/naacl2025/Insights2025](https://softconf.com/naacl2025/Insights2025/)
 
 **ARR papers can be committed through the same page** (please specify review type as "ARR review". There is a text field to add the openreview URL of your submission.)
 
