@@ -13,6 +13,7 @@ permalink: /2025/organization/
 
 * [João Sedoc](https://www.stern.nyu.edu/faculty/bio/joao-sedoc), New York University
 
+* [Raphael Shu](https://nlper.com/raphael.shu/), Amazon AWS GenAI
 
 
 Contact: [insights-workshop-organizers@googlegroups.com](mailto:insights-workshop-organizers@googlegroups.com)
