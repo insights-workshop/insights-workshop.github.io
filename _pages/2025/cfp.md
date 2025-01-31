@@ -31,7 +31,7 @@ A successful negative results paper would contribute one of the following:
 
 ## Important Dates
 
-* Submission deadline: January 30, 2025
+* Submission deadline: <del> January 30 </del><span style="color:#AA0000"> February 10 </span> , 2025 
 * Submission due for papers reviewed through ACL Rolling Review: February 20, 2025
 * Notification of acceptance: March 1, 2025
 * Camera-ready papers due: March 10, 2025
