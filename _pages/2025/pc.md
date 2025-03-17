@@ -30,7 +30,6 @@ permalink: /2025/pc/
 * Soumen Kumar Mondal
 * Aishik Nagar
 * Tristan Naumann
-* Juan Navarro Horniacek
 * John E. Ortega
 * Phil Ostheimer
 * Sergey Pletenev
