@@ -27,7 +27,7 @@ permalink: /2025/program/
 |  |  |  |
 |------------|----------|---------|
 | 10:30 AM | 11:15 AM | **Coffee Break** |
-| 11:15 AM | 12:00 PM | [Invited Talk] [**Wei Xu**](/speakers): Cultural Bias in Large Language Models |
+| 11:15 AM | 12:00 PM | [Invited Talk] [**Wei Xu**](/2025/speakers): Cultural Bias in Large Language Models |
 | 12:00 PM | 02:00 PM | **Lunch** |
 | 02:10 PM | 03:30 PM | **Afternoon Technical Session** |
 
