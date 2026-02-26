@@ -27,6 +27,9 @@ url: http://insights-workshop.github.io # the base hostname & protocol for your 
 
 include:
   - _pages
+  - _pages/2026/
+  - _pages/2025/
+  - _pages/2024/
   - _pages/2023/
   - _pages/2022/
   - _pages/2021/

@@ -1,11 +1,11 @@
 ---
 # layout: page
-title: 2024
-permalink: /2024/
+title: 2026
+permalink: /2026/
 ---
 
 ---
-# <span style="color:#267CB9">Insights 2024</span>
+# <span style="color:#267CB9">Insights 2026</span>
 ## <span style="color:#267CB9">Why negative results?</span>
 
 Publication of negative results is difficult in most fields, but in NLP the problem is exacerbated by the near-universal focus on improvements in benchmarks. This situation implicitly discourages hypothesis-driven research, and it turns creation and fine-tuning of NLP models into art rather than science. Furthermore, it increases the time, effort, and carbon emissions spent on developing and tuning models, as the researchers have no opportunity to learn what has already been tried and failed.
@@ -26,7 +26,7 @@ A successful negative results paper would contribute one of the following:
 
 The Workshop for Insights from Negative Results  invites short papers as well as non-archival abstract submissions for papers published elsewhere (e.g. in one of the main conferences or in non-NLP venues). Our goal is to provide not only a publication venue, but an opportunity to discuss the most urgent methodological issues, and to think about where the field is going.
 
-Thank you to all those who are sponsoring Insights Workshop 2024.
+Thank you to all those who are sponsoring Insights Workshop 2026.
 <!-- <br />
 <br />
 <img src="/assets/img/googlelogo_color_416x140dp.png" style="width:50%"> -->

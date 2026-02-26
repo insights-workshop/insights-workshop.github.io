@@ -4,7 +4,7 @@ title: 2023
 permalink: /2023/
 ---
 
-# <span style="color:#267CB9">Insights 2023 archive</span>
+# <span style="color:#267CB9">Insights 2023</span>
 
 * [Call for papers](/2023/cfp)
 * [Workshop program](/2023/program)
