@@ -4,7 +4,6 @@ title: 2026
 permalink: /2026/
 ---
 
----
 # <span style="color:#267CB9">Insights 2026</span>
 ## <span style="color:#267CB9">Why negative results?</span>
 
