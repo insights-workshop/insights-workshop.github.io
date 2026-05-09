@@ -56,7 +56,7 @@ In 2026, we will invite the authors of accepted negative results papers to nomin
 
 - Submission deadline: June 1, 2026  
 
-- Commitment Date due for papers reviewed through ACL Rolling Review: June 1, 2026  
+- Commitment Date due for papers reviewed through ACL Rolling Review: June 25, 2026  
 
 - Notification of acceptance: July 3, 2026  
 
@@ -68,7 +68,7 @@ In 2026, we will invite the authors of accepted negative results papers to nomin
 
 The workshop will accept short papers (up to 4 pages, excluding references), as well as 1-2 page non-archival abstract submissions for papers published elsewhere (e.g. in one of the main conferences or in non-NLP venues). The goal of this event is to stimulate a meaningful community-wide discussion of the deep issues in NLP methodology, and the authors of both types of submissions will be welcome to take part in our get-togethers.
 
-The workshop will run its own review process, and papers can be submitted directly to the workshop by June 1st, 2026. It is also possible to commit a paper accompanied with reviews from the ACL Rolling Review system by June 1st, 2026. The submission deadline for ARR papers follows the ACL RR calendar. Both research papers and abstracts must follow the ACL two-column format. Official style sheets: https://github.com/acl-org/acl-style-files
+The workshop will run its own review process, and papers can be submitted directly to the workshop by June 1st, 2026. It is also possible to commit a paper accompanied with reviews from the ACL Rolling Review system by June 25, 2026. The submission deadline for ARR papers follows the ACL RR calendar. Both research papers and abstracts must follow the ACL two-column format. Official style sheets: https://github.com/acl-org/acl-style-files
 
 Please do not modify these style files, nor should you use templates designed for other conferences. Submissions that do not conform to the required styles, including paper size, margin width, and font size restrictions, will be rejected without review. Please follow the formatting guidelines outlined here: https://acl-org.github.io/ACLPUB/formatting.html  
 
