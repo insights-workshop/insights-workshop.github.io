@@ -72,7 +72,7 @@ The workshop will run its own review process, and papers can be submitted direct
 
 Please do not modify these style files, nor should you use templates designed for other conferences. Submissions that do not conform to the required styles, including paper size, margin width, and font size restrictions, will be rejected without review. Please follow the formatting guidelines outlined here: https://acl-org.github.io/ACLPUB/formatting.html  
 
-SUBMISSION LINK: https://softconf.com/emnlp2026/insights2026
+SUBMISSION LINK: <a href="https://softconf.com/emnlp2026/insights2026"> https://softconf.com/emnlp2026/insights2026 </a>
 
 ### Multiple Submission Policy  
 
