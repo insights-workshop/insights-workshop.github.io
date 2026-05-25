@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Insights 2024
+title: Insights Workshop
 email: anna_rogers@uml.edu
 repository: insights-workshop/insights-workshop.github.io
 author: Insights Organizers
