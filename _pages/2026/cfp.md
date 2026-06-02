@@ -54,7 +54,7 @@ In 2026, we will invite the authors of accepted negative results papers to nomin
 
 ## Important Dates  
 
-- Submission deadline: June 1, 2026  
+- Submission deadline: <s> June 1, 2026</s>  Extended to June 8th 2026
 
 - Commitment Date due for papers reviewed through ACL Rolling Review: June 25, 2026  
 
