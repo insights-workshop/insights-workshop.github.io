@@ -9,7 +9,7 @@ permalink: /2026/organization
 ## <span style="color:#267CB9"> Organizing committee</span>
 
 * João Sedoc, New York University, USA
-* Aleksandr Drozd, RIKEN, Japan
+* Aleksandr Drozd, AI-KIP, Japan
 * Arjun Akula, Google DeepMind, USA
 * Raphael Shu, Acenta AI, USA
 * Anna Rogers, ITU Copenhagen, Denmark
