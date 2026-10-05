@@ -8,10 +8,6 @@ permalink: /2026/speakers
 
 <div class="speaker" markdown="1">
 
-<img src="https://profiles.utdallas.edu/storage/media/4064/conversions/ryan-boyd-crop-1-medium.jpg" alt="Ryan L. Boyd" width="180" style="float: right; margin: 0 0 1em 1.5em; border-radius: 6px;" />
-
-<div class="speaker" markdown="1">
-
 ## Anya Belz
 
 *Talk details to be announced.*
@@ -19,6 +15,10 @@ permalink: /2026/speakers
 </div>
 
 <hr />
+
+<div class="speaker" markdown="1">
+
+<img src="https://profiles.utdallas.edu/storage/media/4064/conversions/ryan-boyd-crop-1-medium.jpg" alt="Ryan L. Boyd" width="180" style="float: right; margin: 0 0 1em 1.5em; border-radius: 6px;" />
 
 ## Ryan L. Boyd
 
