@@ -10,7 +10,7 @@ Dear colleagues,
 
 The Seventh Workshop on Insights from Negative Results in NLP  
 
-Co-located with EMNLP, exact date TBD between October 22-29, 2026  
+Co-located with EMNLP on workshop day 2: October 29, 2026  
 
 Invites authors to submit relevant work.
 
@@ -56,13 +56,13 @@ In 2026, we will invite the authors of accepted negative results papers to nomin
 
 - Submission deadline: <s> June 1, 2026</s>  Extended to June 8th 2026
 
-- Commitment Date due for papers reviewed through ACL Rolling Review: June 25, 2026  
+- Commitment Date due for papers reviewed through ACL Rolling Review: <s>June 25, 2026</s>  
 
-- Notification of acceptance: July 3, 2026  
+- Notification of acceptance: <s>July 3, 2026</s>  
 
-- Camera-ready papers due: August 1, 2026  
+- Camera-ready papers due: <s>August 1, 2026</s>  
 
-- Workshop: TBA, between October 22-29, 2026  
+- Workshop: October 29, 2026  
 
 ## Submission  
 
