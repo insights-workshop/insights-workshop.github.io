@@ -10,7 +10,7 @@ Dear colleagues,
 
 The Seventh Workshop on Insights from Negative Results in NLP  
 
-Co-located with EMNLP, exact date TBD between October 22-29, 2026  
+Co-located with EMNLP on workshop day 2: October 29, 2026  
 
 Invites authors to submit relevant work.
 
@@ -62,7 +62,7 @@ In 2026, we will invite the authors of accepted negative results papers to nomin
 
 - Camera-ready papers due: August 1, 2026  
 
-- Workshop: TBA, between October 22-29, 2026  
+- Workshop: October 29, 2026  
 
 ## Submission  
 
