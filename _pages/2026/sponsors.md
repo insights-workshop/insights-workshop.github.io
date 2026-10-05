@@ -10,3 +10,4 @@ permalink: /2026/sponsors
 <br />
 <br />
 <img src="/assets/img/googlelogo_color_416x140dp.png" style="width:70%;" alt="Google" /></p>
+
