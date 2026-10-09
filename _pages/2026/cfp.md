@@ -88,7 +88,7 @@ The workshop will follow the new ACL policy: https://www.aclweb.org/adminwiki/in
 
 All accepted papers must be presented at the workshop to appear in the proceedings. Authors of accepted papers must notify the program chairs by the camera-ready deadline if they wish to withdraw the paper. At least one author of each accepted paper must register for the workshop.  
 
-Previous presentations of the work (e.g. preprints on arXiv.org) should be noted in a footnote in the camera-ready version (but not in the anonymized version of the paper). Authors of accepted papers may use one extra page to address reviewer comments. The workshop will take place during EMNLP 2026 (exact date TBD between October 22-29, 2026). It will be hybrid, allowing for both in-person and virtual presentations.  
+Previous presentations of the work (e.g. preprints on arXiv.org) should be noted in a footnote in the camera-ready version (but not in the anonymized version of the paper). Authors of accepted papers may use one extra page to address reviewer comments. The workshop will take place during EMNLP 2026 (October 29). It will be hybrid, allowing for both in-person and virtual presentations.  
 
 ## Organization Committee  
 
