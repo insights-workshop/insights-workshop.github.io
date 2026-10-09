@@ -78,10 +78,6 @@ permalink: /2026/program
     Allan Kazakov</p>
   </li>
   <li>
-    <p><em>When Real-Data Anchors Are Not a Universal Fix: Protocol Pitfalls in Recursive Synthetic LM Training</em><br />
-    Ho Tin Ko</p>
-  </li>
-  <li>
     <p><em>When Gradient Importance Lies: Adaptive LoRA Rank Allocation Fails Under GRPO</em><br />
     Yash Sawant</p>
   </li>
@@ -92,14 +88,6 @@ permalink: /2026/program
   <li>
     <p><em>Perturbation, Not Provenance: Why Activation Steering Does Not Make a Robust Text Watermark</em><br />
     Sergey Pletenev</p>
-  </li>
-  <li>
-    <p><em>PEFT Gains Need Hidden Baselines: Rank and Optimizer Sweeps Change LoRA Conclusions</em><br />
-    Ding Wu</p>
-  </li>
-  <li>
-    <p><em>When Relation-Free Retrieval Is Not Relation-Aware: A Directionality Stress Test for Linear Graph RAG</em><br />
-    Ding Wu</p>
   </li>
 </ul>
 <p>17:30 Closing Remarks</p>
