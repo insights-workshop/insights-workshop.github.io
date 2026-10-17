@@ -20,6 +20,9 @@ gem "jekyll-theme-minimal"
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
 gem "github-pages", group: :jekyll_plugins
 
+# Keep the CommonMarker security update when resolving without a committed lockfile.
+gem "commonmarker", ">= 0.23.9"
+
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.17.0"
