@@ -13,8 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Insights 2020
+title: Insights Workshop
 email: anna_rogers@uml.edu
+repository: insights-workshop/insights-workshop.github.io
+author: Insights Organizers
+
 description: >- # this means to ignore newlines until "baseurl:"
  Workshop on Insights from Negative Results in NLP
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -24,6 +27,10 @@ url: http://insights-workshop.github.io # the base hostname & protocol for your 
 
 include:
   - _pages
+  - _pages/2026/
+  - _pages/2025/
+  - _pages/2024/
+  - _pages/2023/
   - _pages/2022/
   - _pages/2021/
   - _pages/2020/

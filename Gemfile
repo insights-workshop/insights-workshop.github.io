@@ -8,7 +8,7 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "~> 3.9.3"
+gem "jekyll", "~> 3.9.4"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "minima", "~> 2.5.1"
@@ -20,9 +20,12 @@ gem "jekyll-theme-minimal"
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
 gem "github-pages", group: :jekyll_plugins
 
+# Keep the Nokogiri security update when resolving without a committed lockfile.
+gem "nokogiri", ">= 1.14.3"
+
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.15.1"
+  gem "jekyll-feed", "~> 0.17.0"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
