@@ -23,6 +23,9 @@ gem "github-pages", group: :jekyll_plugins
 # Keep the CommonMarker security update when resolving without a committed lockfile.
 gem "commonmarker", ">= 0.23.9"
 
+# Keep the Nokogiri security update when resolving without a committed lockfile.
+gem "nokogiri", ">= 1.14.3"
+
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.17.0"
