@@ -10,7 +10,7 @@ Dear colleagues,
 
 The Seventh Workshop on Insights from Negative Results in NLP  
 
-Co-located with EMNLP, exact date TBD between October 22-29, 2026  
+Co-located with EMNLP on workshop day 2: October 29, 2026  
 
 Invites authors to submit relevant work.
 
@@ -62,7 +62,7 @@ In 2026, we will invite the authors of accepted negative results papers to nomin
 
 - Camera-ready papers due: August 1, 2026  
 
-- Workshop: TBA, between October 22-29, 2026  
+- Workshop: October 29, 2026  
 
 ## Submission  
 
@@ -88,7 +88,7 @@ The workshop will follow the new ACL policy: https://www.aclweb.org/adminwiki/in
 
 All accepted papers must be presented at the workshop to appear in the proceedings. Authors of accepted papers must notify the program chairs by the camera-ready deadline if they wish to withdraw the paper. At least one author of each accepted paper must register for the workshop.  
 
-Previous presentations of the work (e.g. preprints on arXiv.org) should be noted in a footnote in the camera-ready version (but not in the anonymized version of the paper). Authors of accepted papers may use one extra page to address reviewer comments. The workshop will take place during EMNLP 2026 (exact date TBD between October 22-29, 2026). It will be hybrid, allowing for both in-person and virtual presentations.  
+Previous presentations of the work (e.g. preprints on arXiv.org) should be noted in a footnote in the camera-ready version (but not in the anonymized version of the paper). Authors of accepted papers may use one extra page to address reviewer comments. The workshop will take place during EMNLP 2026 (October 29). It will be hybrid, allowing for both in-person and virtual presentations.  
 
 ## Organization Committee  
 
