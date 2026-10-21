@@ -71,4 +71,12 @@ permalink: /2026/accepted
     <p><em>Perturbation, Not Provenance: Why Activation Steering Does Not Make a Robust Text Watermark</em><br />
     Sergey Pletenev</p>
   </li>
+  <li>
+    <p><em>PEFT Gains Need Hidden Baselines: Rank and Optimizer Sweeps Change LoRA Conclusions</em><br />
+    Ding Wu</p>
+  </li>
+  <li>
+    <p><em>When Relation-Free Retrieval Is Not Relation-Aware: A Directionality Stress Test for Linear Graph RAG</em><br />
+    Ding Wu</p>
+  </li>
 </ul>
